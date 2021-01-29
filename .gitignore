@@ -1,0 +1,23 @@
+# # Website build folders
+# _build
+# _site
+
+# .env
+.env
+
+# Node packages folder
+web_modules
+node_modules
+
+# Python virtual environment
+venv*
+__pycache__
+
+# Python pyenv local python version
+.python-version
+
+# Mac hidden files
+**/.DS_Store
+
+# VSCode settings
+.vscode
