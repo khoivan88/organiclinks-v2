@@ -1,12 +1,12 @@
 {
   "name": "organiclinks-v2",
   "version": "1.0.0",
-  "description": "",
+  "description": "New OrganicLinks workflow",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "eleventy"
   },
   "keywords": [],
-  "author": "",
+  "author": "Khoi Van",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
