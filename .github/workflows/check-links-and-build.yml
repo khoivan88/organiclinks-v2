@@ -6,6 +6,8 @@ name: CI Check links and Build
 on:
   schedule:
     - cron: '0 * * * *'
+  # Allow manual trigger of this workflow
+  workflow_dispatch:
 #   push:
 #     branches: [ main ]
 
@@ -52,6 +54,9 @@ jobs:
         # python ./scripts/main.py
         output=$(python ./scripts/main.py)
         echo "::set-output name=changelog::$output"
+    - name: Display automatic change
+      if: ${{ steps.python-check-link.outputs.changelog != '' }}
+      run: echo ${{ steps.python-check-link.outputs.changelog }}
     - name: Commit reports if exist
       run: |
         echo ${{ github.ref }}
