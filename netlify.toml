@@ -3,7 +3,7 @@
     publish = "_site"
     base = "/"
 
-[[redirect]]
+[[redirects]]
     from = "/"
     to = "/organicsyntheticfaculty.html"
     status = 200
