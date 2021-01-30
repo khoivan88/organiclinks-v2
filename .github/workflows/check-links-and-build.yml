@@ -106,11 +106,12 @@ jobs:
       env:
         ELEVENTY_ENV: production
 
-    - name: Commit 'organicsyntheticfaculty.html' for 11ty-lazyimage-plugin cache
+    - name: Commit 'organicsyntheticfaculty.html' 
       run: |
         echo ${{ github.ref }}
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        git pull
         git commit -m "ci: Automated update 'organicsyntheticfaculty.html' $(date)" ./_site/'organicsyntheticfaculty.html' | exit 0
 
     - name: Push 'organicsyntheticfaculty.html' changes
