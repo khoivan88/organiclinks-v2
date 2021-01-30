@@ -5,7 +5,7 @@ name: CI Check links and Build
 
 on:
   schedule:
-    - cron: '29 * * * *'
+    - cron: '35 * * * *'
 
 jobs:
   check-link:
