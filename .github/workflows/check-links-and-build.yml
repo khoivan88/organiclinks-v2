@@ -52,14 +52,18 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit -m "ci: Automated link check $(date)" -a | exit 0
-
     - name: Push changes
 #       if: github.ref == 'refs/heads/main'
       uses: ad-m/github-push-action@v0.6.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
-
+    - name: Archive link check results
+      uses: actions/upload-artifact@v2
+      with:
+        name: link-check-report
+        path: ./data/link_check_report.csv
+  
   build:
     needs: [check-link]
 #     if:
