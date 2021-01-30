@@ -54,7 +54,7 @@ jobs:
         # python ./scripts/main.py
         output=$(python ./scripts/main.py)
         echo "::set-output name=changelog::$output"
-    - name: Display automatic change
+    - name: Print changelog
       if: ${{ steps.python-check-link.outputs.changelog != '' }}
       run: echo ${{ steps.python-check-link.outputs.changelog }}
     - name: Commit reports if exist
