@@ -6,8 +6,8 @@ name: CI Check links and Build
 on:
   schedule:
     - cron: '0 * * * *'
-  push:
-    branches: [ main ]
+#   push:
+#     branches: [ main ]
 
 jobs:
   check-link:
