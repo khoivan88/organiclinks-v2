@@ -4,6 +4,6 @@
     base = "/"
 
 [[redirect]]
-    from = "/*"
+    from = "/"
     to = "/organicsyntheticfaculty.html"
     status = 200
