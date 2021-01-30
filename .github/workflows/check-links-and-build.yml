@@ -5,13 +5,16 @@ name: CI Check links and Build
 
 on:
   schedule:
-    - cron: '0 * * * *'
-#   push:
-#     branches: [ main ]
+    - cron: '*/10 * * * *'
+  push:
+    branches: [ main ]
 
 jobs:
   check-link:
     runs-on: ubuntu-latest
+    # Map a step output to a job output
+    outputs:
+      changelog: ${{ steps.python-check-link.outputs.changelog }}
 
     steps:
     - uses: actions/checkout@v2
@@ -44,8 +47,11 @@ jobs:
 #       run: |
 #         pytest
     - name: Run check and/or fix links
+      id: python-check-link
       run: |
-        python ./scripts/main.py
+        # python ./scripts/main.py
+        output=$(python ./scripts/main.py)
+        echo "::set-output name=changelog::$output"
     - name: Commit reports if exist
       run: |
         echo ${{ github.ref }}
@@ -63,10 +69,10 @@ jobs:
       with:
         name: link-check-report
         path: ./data/link_check_report.csv
-  
+
   build:
     needs: [check-link]
-#     if:
+    if: ${{ needs.check-link.outputs.changelog != '' }}
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
@@ -110,7 +116,7 @@ jobs:
       env:
         ELEVENTY_ENV: production
 
-    - name: Commit 'organicsyntheticfaculty.html' 
+    - name: Commit 'organicsyntheticfaculty.html'
       run: |
         echo ${{ github.ref }}
         git config --local user.email "action@github.com"

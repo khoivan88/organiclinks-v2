@@ -59,11 +59,18 @@ def fix_links():
 
             dict_writer.writerow(row)
 
-    # Report to console
-    console.log(f'Number of links changes: {len(changed_links)}')
-    console.log('Details:')
-    for old_link, new_link in changed_links:
-        console.log(f'\t{old_link} --> {new_link}')
+    # # Report to console
+    # console.log(f'Number of links changes: {len(changed_links)}')
+    # console.log('Details:')
+    # for old_link, new_link in changed_links:
+    #     console.log(f'\t{old_link} --> {new_link}')
+    if changed_links:
+        change_log = f'Number of links changes: {len(changed_links)}\nDetails:\n'
+        for old_link, new_link in changed_links:
+            change_log += f'\t{old_link} --> {new_link}\n'
+
+        console.log(change_log)
+        return(change_log)
 
 
 def load_checked_url_directory() -> Dict:
