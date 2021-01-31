@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+  branch: netlify-cms # Branch to update (optional; defaults to master)
 
 # Please run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
