@@ -9,6 +9,7 @@ collections:
       - label: "OrganicLinks Database"
         name: "organiclinks_db_test"
         file: "src/_data/organiclinks_db_test.yaml"
+        preview_path: "_site/ol-test.html"
         fields:
           - label: Faculties
             name: faculties
