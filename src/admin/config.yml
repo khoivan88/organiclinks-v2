@@ -1,0 +1,30 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+
+collections:
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "OrganicLinks Database"
+        name: "organiclinks_db"
+        file: "data/organiclinks_db.csv"
+        fields:
+          - label: Faculties
+            name: faculties
+            widget: list
+            fields:
+              - {label: "Primary Investigator", name: "primary_investigator", widget: "string", required: true}
+              - {label: "School", name: "school", widget: "string", required: true}
+              - {label: "State", name: "state", widget: "string", required: true}
+              - {label: "City", name: "city", widget: "string"}
+              - {label: "Institute Carnegie Classification", name: "institute_carnegie_classification", widget: "string", default: ""}
+              - {label: "Website", name: website, widget: "string"}
+              - {label: "Research Interest", name: "research_interest", widget: "string", default: "synthetic organic"}
+              - {label: "Postdoc Wanted", name: postdoc_wanted, widget: "boolean", default: false}
+              - {label: "Postdoc Ads Link", name: "postdoc_ads_link", widget: "string"}
+              - {label: "Source", name: "source", widget: "string", default: "https://www.organicdivision.org/organicsyntheticfaculty/"}
+
+# These lines should *not* be indented
+media_folder: "src/_assets/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "_site/_assets/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
