@@ -1,5 +1,8 @@
+const yaml = require("js-yaml");
+
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./src/admin');
+  eleventyConfig.addDataExtension("yaml", contents => yaml.safeLoad(contents));
   return {
     dir: {
       input: 'src',

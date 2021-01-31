@@ -8,7 +8,7 @@ collections:
     files:
       - label: "OrganicLinks Database"
         name: "organiclinks_db_test"
-        file: "data/organiclinks_db_test.yaml"
+        file: "src/_data/organiclinks_db_test.yaml"
         fields:
           - label: Faculties
             name: faculties
@@ -16,13 +16,17 @@ collections:
             fields:
               - {label: "Primary Investigator", name: "primary_investigator", widget: "string", required: true}
               - {label: "School", name: "school", widget: "string", required: true}
-              - {label: "State", name: "state", widget: "string", required: true}
+              - label: "State"
+                name: "state"
+                widget: "select"
+                required: true
+                options: ["Choose one", "Alabama", "Alaska", "American Samoa", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "District of Columbia", "Florida", "Georgia", "Guam", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Minor Outlying Islands", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Northern Mariana Islands", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "U.S. Virgin Islands", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"]
               - {label: "City", name: "city", widget: "string", required: false}
-              - {label: "Institute Carnegie Classification", name: "institute_carnegie_classification", widget: "string", required: false, default: ""}
+              - {label: "Institute Carnegie Classification", name: "institute_carnegie_classification", widget: "string", required: false, default: "", hint: "R1, R2, etc."}
               - {label: "Website", name: website, widget: "string"}
               - {label: "Research Interest", name: "research_interest", widget: "string", required: false, default: "synthetic organic"}
               - {label: "Postdoc Wanted", name: postdoc_wanted, widget: "boolean", required: false, default: false}
-              - {label: "Postdoc Ads Link", name: "postdoc_ads_link", widget: "string"}
+              - {label: "Postdoc Ads Link", name: "postdoc_ads_link", widget: "string", required: false}
               - {label: "Source", name: "source", widget: "string", required: false, default: "https://www.organicdivision.org/organicsyntheticfaculty/"}
 
 # These lines should *not* be indented
