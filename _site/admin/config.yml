@@ -8,7 +8,7 @@ collections:
     files:
       - label: "OrganicLinks Database"
         name: "organiclinks_db"
-        file: "data/organiclinks_db.csv"
+        file: "../../data/organiclinks_db.csv"
         fields:
           - label: Faculties
             name: faculties
