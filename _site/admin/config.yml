@@ -13,3 +13,7 @@ collections:
           - {label: Primary Investigator, name: primary_investigator, widget: string}
           - {label: School, name: school, widget: string}
           # - {label: Intro, name: intro, widget: markdown}
+
+# These lines should *not* be indented
+media_folder: "src/_assets/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "_site/_assets/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
