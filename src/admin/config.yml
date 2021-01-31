@@ -7,8 +7,8 @@ collections:
     name: "pages"
     files:
       - label: "OrganicLinks Database"
-        name: "organiclinks_db"
-        file: "data/organiclinks_db.csv"
+        name: "organiclinks_db_test"
+        file: "data/organiclinks_db_test.yaml"
         fields:
           - label: Faculties
             name: faculties
@@ -17,13 +17,13 @@ collections:
               - {label: "Primary Investigator", name: "primary_investigator", widget: "string", required: true}
               - {label: "School", name: "school", widget: "string", required: true}
               - {label: "State", name: "state", widget: "string", required: true}
-              - {label: "City", name: "city", widget: "string"}
-              - {label: "Institute Carnegie Classification", name: "institute_carnegie_classification", widget: "string", default: ""}
+              - {label: "City", name: "city", widget: "string", required: false}
+              - {label: "Institute Carnegie Classification", name: "institute_carnegie_classification", widget: "string", required: false, default: ""}
               - {label: "Website", name: website, widget: "string"}
-              - {label: "Research Interest", name: "research_interest", widget: "string", default: "synthetic organic"}
-              - {label: "Postdoc Wanted", name: postdoc_wanted, widget: "boolean", default: false}
+              - {label: "Research Interest", name: "research_interest", widget: "string", required: false, default: "synthetic organic"}
+              - {label: "Postdoc Wanted", name: postdoc_wanted, widget: "boolean", required: false, default: false}
               - {label: "Postdoc Ads Link", name: "postdoc_ads_link", widget: "string"}
-              - {label: "Source", name: "source", widget: "string", default: "https://www.organicdivision.org/organicsyntheticfaculty/"}
+              - {label: "Source", name: "source", widget: "string", required: false, default: "https://www.organicdivision.org/organicsyntheticfaculty/"}
 
 # These lines should *not* be indented
 media_folder: "src/_assets/images/uploads" # Media files will be stored in the repo under static/images/uploads
