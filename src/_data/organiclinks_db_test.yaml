@@ -1,101 +1,119 @@
 faculties:
-- primary_investigator: Kevin Shaughnessy
-  school: University of Alabama
-  state: Alabama
-  city: Tuscaloosa
-  institute_carnegie_classification: ''
-  website: http://kshaughnessy.people.ua.edu/
-  research_interest: synthetic organic
-  postdoc_wanted: ''
-  postdoc_ads_link: ''
-  source: https://www.organicdivision.org/organicsyntheticfaculty/
-- primary_investigator: Timothy Snowden
-  school: University of Alabama
-  state: Alabama
-  city: Tuscaloosa
-  institute_carnegie_classification: ''
-  website: https://chemistry.ua.edu/people/timothy-s-snowden/
-  research_interest: synthetic organic
-  postdoc_wanted: ''
-  postdoc_ads_link: ''
-  source: https://www.organicdivision.org/organicsyntheticfaculty/
-- primary_investigator: Michael Jennings
-  school: University of Alabama
-  state: Alabama
-  city: Tuscaloosa
-  institute_carnegie_classification: ''
-  website: https://chemistry.ua.edu/people/michael-p-jennings/
-  research_interest: synthetic organic
-  postdoc_wanted: ''
-  postdoc_ads_link: ''
-  source: https://www.organicdivision.org/organicsyntheticfaculty/
-- primary_investigator: Pengfei Wang
-  school: University of Alabama - Birmingham
-  state: Alabama
-  city: Birmingham
-  institute_carnegie_classification: ''
-  website: http://scholars.uab.edu/display/wangp
-  research_interest: synthetic organic
-  postdoc_wanted: ''
-  postdoc_ads_link: ''
-  source: https://www.organicdivision.org/organicsyntheticfaculty/
-- primary_investigator: Sadanandan Velu
-  school: University of Alabama - Birmingham
-  state: Alabama
-  city: Birmingham
-  institute_carnegie_classification: ''
-  website: http://scholars.uab.edu/display/svelu
-  research_interest: synthetic organic
-  postdoc_wanted: ''
-  postdoc_ads_link: ''
-  source: https://www.organicdivision.org/organicsyntheticfaculty/
-- primary_investigator: Ming Chen
-  school: Auburn University
-  state: Alabama
-  city: Auburn
-  institute_carnegie_classification: ''
-  website: http://www.auburn.edu/cosam/faculty/chemistry/chen/research/index.htm
-  research_interest: synthetic organic
-  postdoc_wanted: ''
-  postdoc_ads_link: ''
-  source: https://www.organicdivision.org/organicsyntheticfaculty/
-- primary_investigator: Anne Gorden
-  school: Texas Tech University
-  state: Texas
-  city: Lubbock
-  institute_carnegie_classification: ''
-  website: https://annegorden.wixsite.com/website
-  research_interest: synthetic organic
-  postdoc_wanted: ''
-  postdoc_ads_link: ''
-  source: https://www.organicdivision.org/organicsyntheticfaculty/
-- primary_investigator: Rashad Karimov
-  school: Auburn University
-  state: Alabama
-  city: Auburn
-  institute_carnegie_classification: ''
-  website: https://karimovrashad.wixsite.com/website
-  research_interest: synthetic organic
-  postdoc_wanted: ''
-  postdoc_ads_link: ''
-  source: https://www.organicdivision.org/organicsyntheticfaculty/
-- primary_investigator: Bradley Merner
-  school: Auburn University
-  state: Alabama
-  city: Auburn
-  institute_carnegie_classification: ''
-  website: https://www.mernergroup.com/
-  research_interest: synthetic organic
-  postdoc_wanted: ''
-  postdoc_ads_link: ''
-  source: https://www.organicdivision.org/organicsyntheticfaculty/
-- primary_investigator: Stewart Schneller
-  school: Auburn University
-  state: Alabama
-  city: Auburn
-  institute_carnegie_classification: ''
-  website: http://wp.auburn.edu/schnest/
-  research_interest: synthetic organic
-  postdoc_wanted: ''
-  postdoc_ads_link: ''
-  source: https://www.organicdivision.org/organicsyntheticfaculty/
+  - institute_carnegie_classification: ""
+    primary_investigator: Kevin Shaughnessy
+    city: Tuscaloosa
+    research_interest: synthetic organic
+    postdoc_ads_link: ""
+    state: Alabama
+    school: University of Alabama
+    postdoc_wanted: ""
+    source: https://www.organicdivision.org/organicsyntheticfaculty/
+    website: http://kshaughnessy.people.ua.edu/
+  - institute_carnegie_classification: ""
+    primary_investigator: Timothy Snowden
+    city: Tuscaloosa
+    research_interest: synthetic organic
+    postdoc_ads_link: ""
+    state: Alabama
+    school: University of Alabama
+    postdoc_wanted: ""
+    source: https://www.organicdivision.org/organicsyntheticfaculty/
+    website: https://chemistry.ua.edu/people/timothy-s-snowden/
+  - institute_carnegie_classification: ""
+    primary_investigator: Michael Jennings
+    city: Tuscaloosa
+    research_interest: synthetic organic
+    postdoc_ads_link: ""
+    state: Alabama
+    school: University of Alabama
+    postdoc_wanted: ""
+    source: https://www.organicdivision.org/organicsyntheticfaculty/
+    website: https://chemistry.ua.edu/people/michael-p-jennings/
+  - institute_carnegie_classification: ""
+    primary_investigator: Pengfei Wang
+    city: Birmingham
+    research_interest: synthetic organic
+    postdoc_ads_link: ""
+    state: Alabama
+    school: University of Alabama - Birmingham
+    postdoc_wanted: ""
+    source: https://www.organicdivision.org/organicsyntheticfaculty/
+    website: http://scholars.uab.edu/display/wangp
+  - institute_carnegie_classification: ""
+    primary_investigator: Sadanandan Velu
+    city: Birmingham
+    research_interest: synthetic organic
+    postdoc_ads_link: ""
+    state: Alabama
+    school: University of Alabama - Birmingham
+    postdoc_wanted: ""
+    source: https://www.organicdivision.org/organicsyntheticfaculty/
+    website: http://scholars.uab.edu/display/svelu
+  - institute_carnegie_classification: ""
+    primary_investigator: Ming Chen
+    city: Auburn
+    research_interest: synthetic organic
+    postdoc_ads_link: ""
+    state: Alabama
+    school: Auburn University
+    postdoc_wanted: ""
+    source: https://www.organicdivision.org/organicsyntheticfaculty/
+    website: http://www.auburn.edu/cosam/faculty/chemistry/chen/research/index.htm
+  - institute_carnegie_classification: ""
+    primary_investigator: Anne Gorden
+    city: Lubbock
+    research_interest: synthetic organic
+    postdoc_ads_link: ""
+    state: Texas
+    school: Texas Tech University
+    postdoc_wanted: ""
+    source: https://www.organicdivision.org/organicsyntheticfaculty/
+    website: https://annegorden.wixsite.com/website
+  - institute_carnegie_classification: ""
+    primary_investigator: Rashad Karimov
+    city: Auburn
+    research_interest: synthetic organic
+    postdoc_ads_link: ""
+    state: Alabama
+    school: Auburn University
+    postdoc_wanted: ""
+    source: https://www.organicdivision.org/organicsyntheticfaculty/
+    website: https://karimovrashad.wixsite.com/website
+  - institute_carnegie_classification: ""
+    primary_investigator: Bradley Merner
+    city: Auburn
+    research_interest: synthetic organic
+    postdoc_ads_link: ""
+    state: Alabama
+    school: Auburn University
+    postdoc_wanted: ""
+    source: https://www.organicdivision.org/organicsyntheticfaculty/
+    website: https://www.mernergroup.com/
+  - institute_carnegie_classification: ""
+    primary_investigator: Stewart Schneller
+    city: Auburn
+    research_interest: synthetic organic
+    postdoc_ads_link: ""
+    state: Alabama
+    school: Auburn University
+    postdoc_wanted: ""
+    source: https://www.organicdivision.org/organicsyntheticfaculty/
+    website: http://wp.auburn.edu/schnest/
+  - institute_carnegie_classification: MAGIC
+    primary_investigator: Albus Dumbledore
+    city: unknown
+    research_interest: synthetic organic
+    postdoc_ads_link: https://FigureItOut.magic.edu
+    state: Choose one
+    school: Hogwarts
+    postdoc_wanted: true
+    source: https://www.organicdivision.org/organicsyntheticfaculty/
+    website: https://hogwarts.magic.edu
+  - institute_carnegie_classification: ""
+    research_interest: synthetic organic
+    postdoc_wanted: false
+    source: https://www.organicdivision.org/organicsyntheticfaculty/
+    primary_investigator: Minerva McGonagall
+    school: Hogwarts
+    state: Choose one
+    website: https://Minerva-McGonagall.magic.edu
