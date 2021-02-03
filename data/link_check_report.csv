@@ -1,27 +1,26 @@
 url,status_code,reason,redirected_url,date_checked
-https://aponick.chem.ufl.edu/Aponick_Research/Home.html,,"HTTPSConnectionPool(host='aponick.chem.ufl.edu', port=443): Max retries exceeded with url: /Aponick_Research/Home.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-02T08:19:48
-https://zhang.chem.ucsb.edu/,,"HTTPSConnectionPool(host='zhang.chem.ucsb.edu', port=443): Read timed out. (read timeout=3)",,2021-02-02T08:19:50
-https://science.psu.edu/chem/people/edn5056,,"HTTPSConnectionPool(host='science.psu.edu', port=443): Max retries exceeded with url: /chem/people/edn5056 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-02T08:19:50
-http://danheiserlab.mit.edu/,,"HTTPConnectionPool(host='danheiserlab.mit.edu', port=80): Read timed out. (read timeout=3)",,2021-02-02T08:19:49
-https://hunter.cuny.edu/artsci/chemistry/faculty-and-staff/profile/?id=18745,,"HTTPSConnectionPool(host='hunter.cuny.edu', port=443): Read timed out. (read timeout=3)",,2021-02-02T08:19:51
-https://academic.uthsc.edu/faculty/facepage.php?netID=mkurosu&personnel_id=287119,,"HTTPSConnectionPool(host='academic.uthsc.edu', port=443): Max retries exceeded with url: /faculty/facepage.php?netID=mkurosu&personnel_id=287119 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6d4465aac0>, 'Connection to academic.uthsc.edu timed out. (connect timeout=3)'))",,2021-02-02T08:19:47
-http://ericsimanek.com/,,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",,2021-02-02T08:19:48
-https://chem.unc.edu/faculty/Aube-Jeff/,,"HTTPSConnectionPool(host='chem.unc.edu', port=443): Max retries exceeded with url: /faculty/Aube-Jeff/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-02T08:19:55
-https://www.chem.tamu.edu/rgroup/burgess/,,"HTTPSConnectionPool(host='www.chem.tamu.edu', port=443): Max retries exceeded with url: /rgroup/burgess/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-02T08:19:52
-https://hunter.cuny.edu/artsci/chemistry/faculty-and-staff/profile/?id=18725,,"HTTPSConnectionPool(host='hunter.cuny.edu', port=443): Read timed out. (read timeout=3)",,2021-02-02T08:19:53
-https://manetschlab.com/,,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",,2021-02-02T08:19:51
-https://chem.duke.edu/labs/widenhoefer/overview,404,Not Found,,2021-02-02T08:19:56
-https://gellman.chem.wisc.edu:443/,,"HTTPSConnectionPool(host='gellman.chem.wisc.edu', port=443): Read timed out. (read timeout=3)",,2021-02-02T08:19:51
-http://www.ztb.rice.edu/index.html,404,Not Found,,2021-02-02T08:19:55
-https://landis.chem.wisc.edu:443/,,"HTTPSConnectionPool(host='landis.chem.wisc.edu', port=443): Read timed out. (read timeout=3)",,2021-02-02T08:19:57
-https://martellgroup.chem.wisc.edu/,,"HTTPSConnectionPool(host='martellgroup.chem.wisc.edu', port=443): Read timed out. (read timeout=3)",,2021-02-02T08:19:52
-http://www.nantzgroup.com/Nantz_Lab/Homepage.html,404,Not Found,,2021-02-02T08:19:54
-https://people.chem.duke.edu/~jlr67/,,"HTTPSConnectionPool(host='people.chem.duke.edu', port=443): Max retries exceeded with url: /~jlr67/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-02T08:19:53
-http://www.hlelab.com/,302,Found,http://www.hlelab.com/,2021-02-02T08:19:56
-https://chem.unc.edu/faculty/Crimmins-Michael/,,"HTTPSConnectionPool(host='chem.unc.edu', port=443): Max retries exceeded with url: /faculty/Crimmins-Michael/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-02T08:19:57
-https://wickens.chem.wisc.edu/,,"HTTPSConnectionPool(host='wickens.chem.wisc.edu', port=443): Read timed out. (read timeout=3)",,2021-02-02T08:19:56
-http://chogroup.org/,,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",,2021-02-02T08:19:59
-https://weixgroup.chem.wisc.edu,,"HTTPSConnectionPool(host='weixgroup.chem.wisc.edu', port=443): Read timed out. (read timeout=3)",,2021-02-02T08:19:56
-https://www.uta.edu/faculty/bugarin/AB_UTA/Home.html,404,Not Found,,2021-02-02T08:20:03
-http://www.dudleychemistry.org/,,"HTTPConnectionPool(host='www.dudleychemistry.org', port=80): Read timed out. (read timeout=3)",,2021-02-02T08:20:02
-https://www.mernergroup.com/,,"HTTPSConnectionPool(host='www.mernergroup.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1123)')))",,2021-02-02T08:20:00
+https://www.uta.edu/faculty/bugarin/AB_UTA/Home.html,404,Not Found,,2021-02-03T08:18:06
+https://sorensen.princeton.edu/,,"HTTPSConnectionPool(host='sorensen.princeton.edu', port=443): Read timed out. (read timeout=3)",,2021-02-03T08:18:06
+https://weixgroup.chem.wisc.edu,,"HTTPSConnectionPool(host='weixgroup.chem.wisc.edu', port=443): Read timed out. (read timeout=3)",,2021-02-03T08:18:07
+https://zhang.chem.ucsb.edu/,,"HTTPSConnectionPool(host='zhang.chem.ucsb.edu', port=443): Read timed out. (read timeout=3)",,2021-02-03T08:18:07
+https://science.psu.edu/chem/people/edn5056,,"HTTPSConnectionPool(host='science.psu.edu', port=443): Max retries exceeded with url: /chem/people/edn5056 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-03T08:18:08
+https://gellman.chem.wisc.edu:443/,,"HTTPSConnectionPool(host='gellman.chem.wisc.edu', port=443): Read timed out. (read timeout=3)",,2021-02-03T08:18:06
+https://people.chem.duke.edu/~jlr67/,,"HTTPSConnectionPool(host='people.chem.duke.edu', port=443): Max retries exceeded with url: /~jlr67/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-03T08:18:07
+http://www.ztb.rice.edu/index.html,404,Not Found,,2021-02-03T08:18:13
+https://martellgroup.chem.wisc.edu/,,"HTTPSConnectionPool(host='martellgroup.chem.wisc.edu', port=443): Read timed out. (read timeout=3)",,2021-02-03T08:18:11
+https://www.mernergroup.com/,,"HTTPSConnectionPool(host='www.mernergroup.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1123)')))",,2021-02-03T08:18:09
+http://www.nantzgroup.com/Nantz_Lab/Homepage.html,404,Not Found,,2021-02-03T08:18:09
+https://landis.chem.wisc.edu:443/,,"HTTPSConnectionPool(host='landis.chem.wisc.edu', port=443): Read timed out. (read timeout=3)",,2021-02-03T08:18:09
+https://www.depts.ttu.edu/chemistry/Faculty/mayer/index.php,,"HTTPSConnectionPool(host='www.depts.ttu.edu', port=443): Read timed out. (read timeout=3)",,2021-02-03T08:18:10
+http://ericsimanek.com/,,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",,2021-02-03T08:18:10
+https://isearch.asu.edu/profile/3503942,,"HTTPSConnectionPool(host='isearch.asu.edu', port=443): Read timed out. (read timeout=3)",,2021-02-03T08:18:13
+https://chem.unc.edu/faculty/Aube-Jeff/,,"HTTPSConnectionPool(host='chem.unc.edu', port=443): Max retries exceeded with url: /faculty/Aube-Jeff/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-03T08:18:11
+https://chem.unc.edu/faculty/Crimmins-Michael/,,"HTTPSConnectionPool(host='chem.unc.edu', port=443): Max retries exceeded with url: /faculty/Crimmins-Michael/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-03T08:18:14
+https://chem.duke.edu/labs/widenhoefer/overview,404,Not Found,,2021-02-03T08:18:14
+https://www.depts.ttu.edu/chemistry/Faculty/li/index.php,,"HTTPSConnectionPool(host='www.depts.ttu.edu', port=443): Read timed out. (read timeout=3)",,2021-02-03T08:18:14
+https://academic.uthsc.edu/faculty/facepage.php?netID=mkurosu&personnel_id=287119,,"HTTPSConnectionPool(host='academic.uthsc.edu', port=443): Max retries exceeded with url: /faculty/facepage.php?netID=mkurosu&personnel_id=287119 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f409ad04550>, 'Connection to academic.uthsc.edu timed out. (connect timeout=3)'))",,2021-02-03T08:18:13
+https://aponick.chem.ufl.edu/Aponick_Research/Home.html,,"HTTPSConnectionPool(host='aponick.chem.ufl.edu', port=443): Max retries exceeded with url: /Aponick_Research/Home.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-03T08:18:14
+http://chogroup.org/,,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",,2021-02-03T08:18:14
+https://boydston.chem.wisc.edu/,,"HTTPSConnectionPool(host='boydston.chem.wisc.edu', port=443): Read timed out. (read timeout=3)",,2021-02-03T08:18:14
+http://www.dudleychemistry.org/,,"HTTPConnectionPool(host='www.dudleychemistry.org', port=80): Read timed out. (read timeout=3)",,2021-02-03T08:18:16
+https://www.chem.tamu.edu/rgroup/burgess/,,"HTTPSConnectionPool(host='www.chem.tamu.edu', port=443): Max retries exceeded with url: /rgroup/burgess/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-03T08:18:15
