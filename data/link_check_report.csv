@@ -1,32 +1,21 @@
 url,status_code,reason,redirected_url,date_checked
-https://wickens.chem.wisc.edu/,,"HTTPSConnectionPool(host='wickens.chem.wisc.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')))",,2021-02-18T08:15:49
-https://sites.udel.edu/dawatsongroup/,,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",,2021-02-18T08:15:49
-https://www.uta.edu/faculty/bugarin/AB_UTA/Home.html,404,Not Found,,2021-02-18T08:15:49
-https://manetschlab.com/,,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",,2021-02-18T08:15:53
-https://academic.uthsc.edu/faculty/facepage.php?netID=mkurosu&personnel_id=287119,,"HTTPSConnectionPool(host='academic.uthsc.edu', port=443): Max retries exceeded with url: /faculty/facepage.php?netID=mkurosu&personnel_id=287119 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fafd23efe80>, 'Connection to academic.uthsc.edu timed out. (connect timeout=3)'))",,2021-02-18T08:15:53
-https://landis.chem.wisc.edu:443/,,"HTTPSConnectionPool(host='landis.chem.wisc.edu', port=443): Read timed out. (read timeout=3)",,2021-02-18T08:15:51
-https://chem.duke.edu/labs/widenhoefer/overview,404,Not Found,,2021-02-18T08:15:55
-https://science.du.edu/about/faculty-directory/andrei-kutateladze,,"HTTPSConnectionPool(host='science.du.edu', port=443): Read timed out. (read timeout=3)",,2021-02-18T08:15:49
-https://boydston.chem.wisc.edu/,,"HTTPSConnectionPool(host='boydston.chem.wisc.edu', port=443): Read timed out. (read timeout=3)",,2021-02-18T08:15:49
-https://chem.unc.edu/faculty/Aube-Jeff/,,"HTTPSConnectionPool(host='chem.unc.edu', port=443): Max retries exceeded with url: /faculty/Aube-Jeff/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-18T08:15:51
-http://www.hlelab.com/,302,Found,http://www.hlelab.com/,2021-02-18T08:15:51
-https://martellgroup.chem.wisc.edu/,,"HTTPSConnectionPool(host='martellgroup.chem.wisc.edu', port=443): Read timed out. (read timeout=3)",,2021-02-18T08:15:49
-https://vanvranken.ps.uci.edu,,"HTTPSConnectionPool(host='vanvranken.ps.uci.edu', port=443): Read timed out. (read timeout=3)",,2021-02-18T08:15:52
-https://aponick.chem.ufl.edu/Aponick_Research/Home.html,,"HTTPSConnectionPool(host='aponick.chem.ufl.edu', port=443): Max retries exceeded with url: /Aponick_Research/Home.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-18T08:15:52
-https://science.psu.edu/chem/people/edn5056,,"HTTPSConnectionPool(host='science.psu.edu', port=443): Max retries exceeded with url: /chem/people/edn5056 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-18T08:15:53
-https://www.chem.tamu.edu/rgroup/burgess/,,"HTTPSConnectionPool(host='www.chem.tamu.edu', port=443): Max retries exceeded with url: /rgroup/burgess/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-18T08:15:54
-https://zhang.chem.ucsb.edu/,,"HTTPSConnectionPool(host='zhang.chem.ucsb.edu', port=443): Read timed out. (read timeout=3)",,2021-02-18T08:15:57
-https://gellman.chem.wisc.edu:443/,,"HTTPSConnectionPool(host='gellman.chem.wisc.edu', port=443): Read timed out. (read timeout=3)",,2021-02-18T08:15:53
-https://labs.utdallas.edu/ahn/,,"HTTPSConnectionPool(host='labs.utdallas.edu', port=443): Read timed out. (read timeout=3)",,2021-02-18T08:15:56
-https://labs.utdallas.edu/gevorgyan-group/,,"HTTPSConnectionPool(host='labs.utdallas.edu', port=443): Read timed out. (read timeout=3)",,2021-02-18T08:16:01
-http://www.ztb.rice.edu/index.html,404,Not Found,,2021-02-18T08:15:56
-http://www.nantzgroup.com/Nantz_Lab/Homepage.html,404,Not Found,,2021-02-18T08:15:57
-https://snaddon.lab.indiana.edu,,"HTTPSConnectionPool(host='snaddon.lab.indiana.edu', port=443): Read timed out. (read timeout=3)",,2021-02-18T08:15:58
-https://kbrown.lab.indiana.edu/,,"HTTPSConnectionPool(host='kbrown.lab.indiana.edu', port=443): Read timed out. (read timeout=3)",,2021-02-18T08:16:01
-https://sciences.ucf.edu/chemistry/yuanlab/,,"HTTPSConnectionPool(host='sciences.ucf.edu', port=443): Read timed out. (read timeout=3)",,2021-02-18T08:15:57
-https://chemistry-buchwald.mit.edu,,"HTTPSConnectionPool(host='chemistry-buchwald.mit.edu', port=443): Read timed out. (read timeout=3)",,2021-02-18T08:15:57
-http://www.dudleychemistry.org/,,"HTTPConnectionPool(host='www.dudleychemistry.org', port=80): Read timed out. (read timeout=3)",,2021-02-18T08:16:01
-https://people.chem.duke.edu/~jlr67/,,"HTTPSConnectionPool(host='people.chem.duke.edu', port=443): Max retries exceeded with url: /~jlr67/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-18T08:16:00
-https://williams.lab.indiana.edu,,"HTTPSConnectionPool(host='williams.lab.indiana.edu', port=443): Read timed out. (read timeout=3)",,2021-02-18T08:16:01
-https://www.mernergroup.com/,,"HTTPSConnectionPool(host='www.mernergroup.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1123)')))",,2021-02-18T08:16:06
-https://chem.unc.edu/faculty/Crimmins-Michael/,,"HTTPSConnectionPool(host='chem.unc.edu', port=443): Max retries exceeded with url: /faculty/Crimmins-Michael/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-18T08:16:02
+https://manetschlab.com/,,"('Connection aborted.', OSError(107, 'Transport endpoint is not connected'))",,2021-02-19T08:16:10
+https://people.chem.duke.edu/~jlr67/,,"HTTPSConnectionPool(host='people.chem.duke.edu', port=443): Max retries exceeded with url: /~jlr67/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-19T08:16:08
+https://sciences.ucf.edu/chemistry/yuanlab/,,"HTTPSConnectionPool(host='sciences.ucf.edu', port=443): Read timed out. (read timeout=3)",,2021-02-19T08:16:08
+https://academic.uthsc.edu/faculty/facepage.php?netID=mkurosu&personnel_id=287119,,"HTTPSConnectionPool(host='academic.uthsc.edu', port=443): Max retries exceeded with url: /faculty/facepage.php?netID=mkurosu&personnel_id=287119 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1750df1a30>, 'Connection to academic.uthsc.edu timed out. (connect timeout=3)'))",,2021-02-19T08:16:08
+https://zhang.chem.ucsb.edu/,,"HTTPSConnectionPool(host='zhang.chem.ucsb.edu', port=443): Read timed out. (read timeout=3)",,2021-02-19T08:16:08
+https://www.uta.edu/faculty/bugarin/AB_UTA/Home.html,404,Not Found,,2021-02-19T08:16:12
+https://www.chem.tamu.edu/rgroup/burgess/,,"HTTPSConnectionPool(host='www.chem.tamu.edu', port=443): Max retries exceeded with url: /rgroup/burgess/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-19T08:16:12
+https://wordpress.nmsu.edu/wmaio/,,"HTTPSConnectionPool(host='wordpress.nmsu.edu', port=443): Read timed out. (read timeout=3)",,2021-02-19T08:16:11
+http://www.nantzgroup.com/Nantz_Lab/Homepage.html,404,Not Found,,2021-02-19T08:16:13
+https://science.psu.edu/chem/people/edn5056,,"HTTPSConnectionPool(host='science.psu.edu', port=443): Max retries exceeded with url: /chem/people/edn5056 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-19T08:16:16
+http://danheiserlab.mit.edu/,,"HTTPConnectionPool(host='danheiserlab.mit.edu', port=80): Read timed out. (read timeout=3)",,2021-02-19T08:16:16
+https://www.mernergroup.com/,,"HTTPSConnectionPool(host='www.mernergroup.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1123)')))",,2021-02-19T08:16:19
+https://chem.unc.edu/faculty/Crimmins-Michael/,,"HTTPSConnectionPool(host='chem.unc.edu', port=443): Max retries exceeded with url: /faculty/Crimmins-Michael/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-19T08:16:16
+https://chem.unc.edu/faculty/Aube-Jeff/,,"HTTPSConnectionPool(host='chem.unc.edu', port=443): Max retries exceeded with url: /faculty/Aube-Jeff/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-19T08:16:15
+http://www.ztb.rice.edu/index.html,404,Not Found,,2021-02-19T08:16:16
+https://chem.duke.edu/labs/widenhoefer/overview,404,Not Found,,2021-02-19T08:16:16
+http://www.shairlab.com,,"HTTPConnectionPool(host='www.shairlab.com', port=80): Read timed out. (read timeout=3)",,2021-02-19T08:16:15
+https://aponick.chem.ufl.edu/Aponick_Research/Home.html,,"HTTPSConnectionPool(host='aponick.chem.ufl.edu', port=443): Max retries exceeded with url: /Aponick_Research/Home.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",,2021-02-19T08:16:20
+https://research.cbc.osu.edu/rajanbabu.1/,,"HTTPSConnectionPool(host='research.cbc.osu.edu', port=443): Read timed out. (read timeout=3)",,2021-02-19T08:16:16
+https://research.cbc.osu.edu/parquette.1/,,"HTTPSConnectionPool(host='research.cbc.osu.edu', port=443): Read timed out. (read timeout=3)",,2021-02-19T08:16:19
