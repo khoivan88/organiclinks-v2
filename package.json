@@ -10,6 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
+    "eleventy-plugin-external-links": "^1.0.0",
     "fast-csv": "^4.3.6",
     "hyperlink": "^4.6.0"
   }

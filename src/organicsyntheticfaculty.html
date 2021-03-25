@@ -3,12 +3,9 @@ permalink: 'organicsyntheticfaculty.html'
 ---
 <p>
     <img src="https://www.organicdivision.org/wp-content/uploads/2020/01/organiclinks-450x84.jpg"
-        alt="Organiclinks Logo" width="450" height="84" class="alignright size-medium wp-image-9748" /> The following
-    list of United States Synthetic Organic Faculty was originally compiled by Professor <a
-        href="https://fulbright.uark.edu/departments/chemistry/directory/index/uid/mcintosh/name/Matt-McIntosh/"> Matt
-        McIntosh</a>, University of Arkansas and was called Organiclinks. He created the list in the late 1990's and
-    maintained it for 20+ years for the members of his group and those of the organic community. The Links here are
-    provided as a service to the organic chemistry community. They are not an endorsement by the Division.
+        alt="Organiclinks Logo" width="450" height="84" class="alignright size-medium wp-image-9748" />
+    The following list of United States Synthetic Organic Faculty was originally compiled by Professor <a
+    href="https://fulbright.uark.edu/departments/chemistry/directory/index/uid/mcintosh/name/Matt-McIntosh/"> Matt McIntosh</a>, University of Arkansas and was called Organiclinks. He created the list in the late 1990's and maintained it for 20+ years for the members of his group and those of the organic community. The Links here are provided as a service to the organic chemistry community. They are not an endorsement by the Division.
 
     If you would like us to add your group, recommend other chemists and/or links, advertise for a postdoc position, or
     submit a comment or suggestion, please use the <a target='_blank' href="https://forms.gle/E34DVqd6uuc53McM8"
@@ -26,10 +23,8 @@ permalink: 'organicsyntheticfaculty.html'
     {%- for faculty in faculties %}
         <li>
             <a href="{{ faculty.website | url }}">{{ faculty.primary_investigator }}</a>, {{ faculty.school }}
-            {%- if faculty.postdoc_wanted %}
-            <a href="{{ faculty.postdoc_ads_link }}" style="color:red;font-weight:bold; background-color:yellow">
-                Postdoc Wanted</a>
-            {%- endif %}
+            {%- if faculty.postdoc_wanted %} <a href="{{ faculty.postdoc_ads_link }}" style="color:red;font-weight:bold; background-color:yellow">Postdoc Wanted</a>
+            {%- endif -%}
         </li>
     {%- endfor %}
     </ul>
