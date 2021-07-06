@@ -1,23 +1,28 @@
 url,status_code,reason,redirected_url,date_checked
-https://www.chem.tamu.edu/rgroup/burgess/,,"HTTPSConnectionPool(host='www.chem.tamu.edu', port=443): Max retries exceeded with url: /rgroup/burgess/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))",,2021-07-05T08:17:51
-http://danheiserlab.mit.edu/,,"HTTPConnectionPool(host='danheiserlab.mit.edu', port=80): Read timed out. (read timeout=3)",,2021-07-05T08:17:51
-http://www.ztb.rice.edu/index.html,404,Not Found,,2021-07-05T08:17:49
-https://beaudry.chem.oregonstate.edu,,"HTTPSConnectionPool(host='beaudry.chem.oregonstate.edu', port=443): Read timed out. (read timeout=3)",,2021-07-05T08:17:51
-http://www4.utsouthwestern.edu/jdebralab/,,"HTTPConnectionPool(host='www4.utsouthwestern.edu', port=80): Read timed out. (read timeout=3)",,2021-07-05T08:17:51
-https://as.nyu.edu/content/nyu-as/as/faculty/tianning-diao.html,,"HTTPSConnectionPool(host='as.nyu.edu', port=443): Max retries exceeded with url: /content/nyu-as/as/faculty/tianning-diao.html (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1129)')))",,2021-07-05T08:17:52
-https://chem.unc.edu/faculty/Crimmins-Michael/,,"HTTPSConnectionPool(host='chem.unc.edu', port=443): Max retries exceeded with url: /faculty/Crimmins-Michael/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))",,2021-07-05T08:17:51
-https://manetschlab.com/,,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",,2021-07-05T08:17:51
-https://academic.uthsc.edu/faculty/facepage.php?netID=mkurosu&personnel_id=287119,,"HTTPSConnectionPool(host='academic.uthsc.edu', port=443): Max retries exceeded with url: /faculty/facepage.php?netID=mkurosu&personnel_id=287119 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6d5df8b5b0>, 'Connection to academic.uthsc.edu timed out. (connect timeout=3)'))",,2021-07-05T08:17:54
-https://www.depts.ttu.edu/chemistry/Faculty/li/index.php,,"HTTPSConnectionPool(host='www.depts.ttu.edu', port=443): Max retries exceeded with url: /chemistry/Faculty/li/index.php (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1129)')))",,2021-07-05T08:17:52
-https://chem.duke.edu/labs/widenhoefer/overview,404,Not Found,,2021-07-05T08:17:53
-https://chem.unc.edu/faculty/Aube-Jeff/,,"HTTPSConnectionPool(host='chem.unc.edu', port=443): Max retries exceeded with url: /faculty/Aube-Jeff/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))",,2021-07-05T08:17:57
-https://www.mskcc.org/research/ski/labs/samuel-danishefsky,404,Not Found,,2021-07-05T08:17:52
-https://www.depts.ttu.edu/chemistry/Faculty/mayer/index.php,,"HTTPSConnectionPool(host='www.depts.ttu.edu', port=443): Max retries exceeded with url: /chemistry/Faculty/mayer/index.php (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1129)')))",,2021-07-05T08:17:51
-https://profiles.utdallas.edu/ewelin,404,Not Found,,2021-07-05T08:17:56
-http://www.nantzgroup.com/Nantz_Lab/Homepage.html,404,Not Found,,2021-07-05T08:17:56
-http://www.dudleychemistry.org/,,"HTTPConnectionPool(host='www.dudleychemistry.org', port=80): Read timed out. (read timeout=3)",,2021-07-05T08:17:58
-https://www.hopkinsmedicine.org/pharmacology_molecular_sciences/faculty/bios/meyers.html,404,Not Found,,2021-07-05T08:17:59
-https://aponick.chem.ufl.edu/Aponick_Research/Home.html,,"HTTPSConnectionPool(host='aponick.chem.ufl.edu', port=443): Max retries exceeded with url: /Aponick_Research/Home.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))",,2021-07-05T08:17:58
-https://chemistry-buchwald.mit.edu,,"HTTPSConnectionPool(host='chemistry-buchwald.mit.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1129)')))",,2021-07-05T08:18:04
-https://people.chem.duke.edu/~jlr67/,,"HTTPSConnectionPool(host='people.chem.duke.edu', port=443): Max retries exceeded with url: /~jlr67/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))",,2021-07-05T08:17:59
-http://utminers.utep.edu/smito2/research.html,404,Not Found,,2021-07-05T08:18:00
+https://www.hopkinsmedicine.org/pharmacology_molecular_sciences/faculty/bios/meyers.html,404,Not Found,,2021-07-06T08:15:25
+http://utminers.utep.edu/smito2/research.html,404,Not Found,,2021-07-06T08:15:24
+http://www.hlelab.com/,302,Found,http://www.hlelab.com/,2021-07-06T08:15:23
+https://sites.google.com/site/jcjewettlab/,302,Found,https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://sites.google.com/site/jcjewettlab/&followup=https://sites.google.com/site/jcjewettlab/,2021-07-06T08:15:31
+https://as.nyu.edu/content/nyu-as/as/faculty/tianning-diao.html,,"HTTPSConnectionPool(host='as.nyu.edu', port=443): Max retries exceeded with url: /content/nyu-as/as/faculty/tianning-diao.html (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1129)')))",,2021-07-06T08:15:25
+https://www.depts.ttu.edu/chemistry/Faculty/mayer/index.php,,"HTTPSConnectionPool(host='www.depts.ttu.edu', port=443): Max retries exceeded with url: /chemistry/Faculty/mayer/index.php (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1129)')))",,2021-07-06T08:15:25
+https://aponick.chem.ufl.edu/Aponick_Research/Home.html,,"HTTPSConnectionPool(host='aponick.chem.ufl.edu', port=443): Max retries exceeded with url: /Aponick_Research/Home.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))",,2021-07-06T08:15:24
+https://wordpress.nmsu.edu/jherndon/,,"HTTPSConnectionPool(host='wordpress.nmsu.edu', port=443): Read timed out. (read timeout=3)",,2021-07-06T08:15:25
+http://www.dudleychemistry.org/,,"HTTPConnectionPool(host='www.dudleychemistry.org', port=80): Read timed out. (read timeout=3)",,2021-07-06T08:15:23
+https://hunter.cuny.edu/artsci/chemistry/faculty-and-staff/profile/?id=18725,,"HTTPSConnectionPool(host='hunter.cuny.edu', port=443): Read timed out. (read timeout=3)",,2021-07-06T08:15:28
+http://www.shairlab.com,,"HTTPConnectionPool(host='www.shairlab.com', port=80): Read timed out. (read timeout=3)",,2021-07-06T08:15:29
+https://www.mskcc.org/research/ski/labs/samuel-danishefsky,404,Not Found,,2021-07-06T08:15:29
+https://academic.uthsc.edu/faculty/facepage.php?netID=mkurosu&personnel_id=287119,,"HTTPSConnectionPool(host='academic.uthsc.edu', port=443): Max retries exceeded with url: /faculty/facepage.php?netID=mkurosu&personnel_id=287119 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2367420d00>, 'Connection to academic.uthsc.edu timed out. (connect timeout=3)'))",,2021-07-06T08:15:30
+https://howell.chem.uconn.edu/,,"HTTPSConnectionPool(host='howell.chem.uconn.edu', port=443): Read timed out. (read timeout=3)",,2021-07-06T08:15:27
+http://danheiserlab.mit.edu/,,"HTTPConnectionPool(host='danheiserlab.mit.edu', port=80): Read timed out. (read timeout=3)",,2021-07-06T08:15:30
+https://profiles.utdallas.edu/ewelin,404,Not Found,,2021-07-06T08:15:30
+https://chemistry-buchwald.mit.edu,,"HTTPSConnectionPool(host='chemistry-buchwald.mit.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1129)')))",,2021-07-06T08:15:30
+https://www.chem.tamu.edu/rgroup/burgess/,,"HTTPSConnectionPool(host='www.chem.tamu.edu', port=443): Max retries exceeded with url: /rgroup/burgess/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))",,2021-07-06T08:15:30
+https://people.chem.duke.edu/~jlr67/,,"HTTPSConnectionPool(host='people.chem.duke.edu', port=443): Max retries exceeded with url: /~jlr67/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))",,2021-07-06T08:15:29
+https://chem.unc.edu/faculty/Crimmins-Michael/,,"HTTPSConnectionPool(host='chem.unc.edu', port=443): Max retries exceeded with url: /faculty/Crimmins-Michael/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))",,2021-07-06T08:15:32
+https://chem.duke.edu/labs/widenhoefer/overview,404,Not Found,,2021-07-06T08:15:31
+http://www.nantzgroup.com/Nantz_Lab/Homepage.html,404,Not Found,,2021-07-06T08:15:32
+https://wordpress.nmsu.edu/wmaio/,,"HTTPSConnectionPool(host='wordpress.nmsu.edu', port=443): Read timed out. (read timeout=3)",,2021-07-06T08:15:33
+http://www.ztb.rice.edu/index.html,404,Not Found,,2021-07-06T08:15:30
+https://www.depts.ttu.edu/chemistry/Faculty/li/index.php,,"HTTPSConnectionPool(host='www.depts.ttu.edu', port=443): Max retries exceeded with url: /chemistry/Faculty/li/index.php (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1129)')))",,2021-07-06T08:15:32
+https://research.cbc.osu.edu/rajanbabu.1/,,"HTTPSConnectionPool(host='research.cbc.osu.edu', port=443): Read timed out. (read timeout=3)",,2021-07-06T08:15:34
+https://chem.unc.edu/faculty/Aube-Jeff/,,"HTTPSConnectionPool(host='chem.unc.edu', port=443): Max retries exceeded with url: /faculty/Aube-Jeff/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))",,2021-07-06T08:15:35
