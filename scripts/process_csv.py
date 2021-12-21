@@ -25,12 +25,17 @@ CSV_COLUMNS = ['primary_investigator', 'school',
                'website', 'research_interest',
                'postdoc_wanted', 'postdoc_ads_link', 'source'
                ]
-PI_DETAILS_FILENAME = 'data/pi_details.csv'
+
+CURRENT_PATH = Path(__file__).resolve().parent
+DATA_FOLDER = CURRENT_PATH.parent / 'data'
+
+PI_DETAILS_FILENAME = DATA_FOLDER / 'pi_details.csv'
 # ORGANICLINKS_PUI_CSV_FILENAME = 'organiclinks_pui_website_extraction.csv'
 
-ORGANICLINKS_CSV_FILENAME = 'data/organiclinks_website_extraction'
-TARGET_CSV = f'{ORGANICLINKS_CSV_FILENAME}.csv'
-TARGET_CSV_MODIFIED = f'{ORGANICLINKS_CSV_FILENAME}_modified.csv'
+ORGANICLINKS_CSV_FILENAME = DATA_FOLDER / 'organiclinks_website_extraction.csv'
+# ORGANICLINKS_CSV_FILENAME = f'{ORGANICLINKS_CSV_FILENAME}.csv'
+TARGET_CSV_MODIFIED = ORGANICLINKS_CSV_FILENAME.with_stem(f'{ORGANICLINKS_CSV_FILENAME.stem}_modified')
+# TARGET_CSV_MODIFIED = f'{ORGANICLINKS_CSV_FILENAME}_modified.csv'
 REQUEST_HEADERS = {
     'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36'
 }
@@ -45,7 +50,7 @@ def process_csv():
     # log.debug(f'Info lookup directory size: {len(location_directory)}')
     # # console.log(location_directory)
 
-    with open(Path(TARGET_CSV).resolve(), 'r') as f_in, open(Path(TARGET_CSV_MODIFIED).resolve(), 'w') as f_out:
+    with open(Path(ORGANICLINKS_CSV_FILENAME).resolve(), 'r', newline='\r\n') as f_in, open(Path(TARGET_CSV_MODIFIED).resolve(), 'w', newline='\n') as f_out:
         dict_reader = csv.DictReader(f_in)
         fieldnames = CSV_COLUMNS
         dict_writer = csv.DictWriter(f_out, fieldnames=fieldnames)

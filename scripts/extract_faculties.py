@@ -29,6 +29,10 @@ ORGANICLINKS_URL = 'https://www.organicdivision.org/organicsyntheticfaculty/'
 ORGANICLINKS_PUI_URL = 'https://organiclinkspui.net/'
 
 
+CURRENT_PATH = Path(__file__).resolve().parent
+DATA_FOLDER = CURRENT_PATH.parent / 'data'
+
+
 def extract_faculties_from_organiclinks(filename: str):
     """ Prepare the csv file of problem sets and info from 'https://www.organicdivision.org/organicsyntheticfaculty/'
 
@@ -133,7 +137,7 @@ def li_no_attributes_and_containing_anchor(tag):
 
 def write_csv(filename, data: Dict) -> None:
     try:
-        with open(filename, 'w') as csvfile:
+        with open(filename, 'w', newline='\n', encoding='utf-8') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=CSV_COLUMNS)
             writer.writeheader()
             for item in data:
@@ -146,7 +150,7 @@ if __name__ == "__main__":
     now = datetime.now()
 
     # organiclinks_csv_filename = f'organiclinks_website_extraction-{now.strftime("%Y-%m-%d")}.csv'
-    organiclinks_csv_filename = f'../data/organiclinks_website_extraction.csv'
+    organiclinks_csv_filename = DATA_FOLDER / 'organiclinks_website_extraction.csv'
     extract_faculties_from_organiclinks(organiclinks_csv_filename)
 
     # organiclinks_csv_filename = f'organiclinks_pui_website_extraction-{now.strftime("%Y-%m-%d")}.csv'
