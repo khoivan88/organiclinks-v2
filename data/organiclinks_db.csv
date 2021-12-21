@@ -43,9 +43,9 @@ Thomas Maimone,University of California - Berkeley,California,Berkeley,,http://w
 Peter Beal,University of California - Davis,California,Davis,,https://beal.faculty.ucdavis.edu,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Mark Kurth,University of California - Davis,California,Davis,,https://chemistry.ucdavis.edu/people/mark-kurth,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Jaquelyn Gervay-Hague,University of California - Davis,California,Davis,,https://chemistry.ucdavis.edu/people/jacquelyn-gervay-hague,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Jared Shaw,University of California - Davis,California,Davis,,https://shaw.faculty.ucdavis.edu,synthetic organic,True,https://shaw.faculty.ucdavis.edu/2021/10/20/opening-for-a-postdoctoral-researcher-2/,https://www.organicdivision.org/organicsyntheticfaculty/
+Jared Shaw,University of California - Davis,California,Davis,,https://shaw.faculty.ucdavis.edu,synthetic organic,true,https://shaw.faculty.ucdavis.edu/2021/10/20/opening-for-a-postdoctoral-researcher-2/,https://www.organicdivision.org/organicsyntheticfaculty/
 Annaliese Franz,University of California - Davis,California,Davis,,http://chemgroups.ucdavis.edu/%7Efranz/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Mark Mascal,University of California - Davis,California,Davis,,http://chemgroups.ucdavis.edu/~mascal/,synthetic organic,True,https://docs.google.com/spreadsheets/d/1gR6opZLakIfneMh6ckjwZKehkMgTXR2CX3Q8yDJ6iFc/edit?usp=sharing,https://www.organicdivision.org/organicsyntheticfaculty/
+Mark Mascal,University of California - Davis,California,Davis,,http://chemgroups.ucdavis.edu/~mascal/,synthetic organic,true,https://docs.google.com/spreadsheets/d/1gR6opZLakIfneMh6ckjwZKehkMgTXR2CX3Q8yDJ6iFc/edit?usp=sharing,https://www.organicdivision.org/organicsyntheticfaculty/
 David Olson,University of California - Davis,California,Davis,,https://www.olsonlab.org/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Elizabeth Bess,University of California - Irvine,California,Irvine,,https://www.besslab.com,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 James Nowick,University of California - Irvine,California,Irvine,,https://www.chem.uci.edu/~jsnowick/groupweb/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
@@ -141,7 +141,7 @@ Dennis Liotta,Emory University,Georgia,Atlanta,,https://scholarblogs.emory.edu/l
 Frank McDonald,Emory University,Georgia,Atlanta,,https://scholarblogs.emory.edu/frankmcdonaldchemistry/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Nate Jui,Emory University,Georgia,Atlanta,,https://www.juigroup.com/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 William Wuest,Emory University,Georgia,Atlanta,,https://scholarblogs.emory.edu/wuestlab/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Anthony Arduengo,Georgia Institute of Technology,Georgia,Atlanta,,https://ajarduengo.net/,synthetic organic,True,http://ajarduengo.net/,https://www.organicdivision.org/organicsyntheticfaculty/
+Anthony Arduengo,Georgia Institute of Technology,Georgia,Atlanta,,https://ajarduengo.net/,synthetic organic,true,http://ajarduengo.net/,https://www.organicdivision.org/organicsyntheticfaculty/
 Stefan France,Georgia Institute of Technology,Georgia,Atlanta,,http://ww2.chemistry.gatech.edu/~sfrance3/home.html,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 M. G. Finn,Georgia Institute of Technology,Georgia,Atlanta,,http://www.finnlabresearch.org/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Geert-Jan Boons,University of Georgia,Georgia,Athens,,https://www.ccrc.uga.edu/~gjboons/boons/Home.htm,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
@@ -199,7 +199,7 @@ Herman Sintim,Purdue University,Indiana,West Lafayette,,https://sites.google.com
 Horacio Olivo,University of Iowa,Iowa,Iowa City,,https://olivoresearch.wordpress.com,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 David Wiemer,University of Iowa,Iowa,Iowa City,,https://chem.uiowa.edu/wiemer-research-group,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Greg Friestad,University of Iowa,Iowa,Iowa City,,https://chem.uiowa.edu/people/gregory-k-friestad,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Zhendong Jin,University of Iowa,Iowa,Iowa City,,https://pharmacy.uiowa.edu/directory/person/zhendong-jin,synthetic organic,True,https://pharmacy.uiowa.edu/directory/person/zhendong-jin,https://www.organicdivision.org/organicsyntheticfaculty/
+Zhendong Jin,University of Iowa,Iowa,Iowa City,,https://pharmacy.uiowa.edu/directory/person/zhendong-jin,synthetic organic,true,https://pharmacy.uiowa.edu/directory/person/zhendong-jin,https://www.organicdivision.org/organicsyntheticfaculty/
 Dave Martin,University of Iowa,Iowa,Iowa City,,https://martin.lab.uiowa.edu/index.html,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Chris Pigge,University of Iowa,Iowa,Iowa City,,https://chem.uiowa.edu/people/f-christopher-pigge,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Florence Williams,University of Iowa,Iowa,Iowa City,,https://www.williamsresearchlab.com/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
@@ -212,17 +212,17 @@ Zarko Boskovic,University of Kansas,Kansas,Lawrence,,https://boskoviclab.ku.edu,
 Michael Rubin,University of Kansas,Kansas,Lawrence,,http://chem.ku.edu/people/faculty/mrubin,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Jon Tunge,University of Kansas,Kansas,Lawrence,,http://tungegroup.ku.edu/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Bob Grossman,University of Kentucky,Kentucky,Lexington,,https://chem.as.uky.edu/users/rbgros1,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-R. Kiplin Guy,University of Kentucky,Kentucky,Lexington,,https://pharmacy.uky.edu/people/r-kip-guy,synthetic organic,True,http://ukjobs.uky.edu/postings/293026,https://www.organicdivision.org/organicsyntheticfaculty/
+R. Kiplin Guy,University of Kentucky,Kentucky,Lexington,,https://pharmacy.uky.edu/people/r-kip-guy,synthetic organic,true,http://ukjobs.uky.edu/postings/293026,https://www.organicdivision.org/organicsyntheticfaculty/
 Thomas Prisinzano,University of Kentucky,Kentucky,Lexington,,https://prizlab.createuky.net/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Dave Watt,University of Kentucky,Kentucky,Lexington,,http://biochemistry.med.uky.edu/users/dwatt,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Frederick Luzzio,University of Louisville,Kentucky,Louisville,,http://louisville.edu/chemistry/directory/faculty/frederick-a.-luzzio,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Michael Nantz,University of Louisville,Kentucky,Louisville,,http://www.nantzgroup.com/Nantz_Lab/Homepage.html,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Gerald Hammond,University of Louisville,Kentucky,Louisville,,http://louisville.edu/chemistry/directory/faculty/gerald-b.-gb-hammond,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Rendy Kartika,Louisiana State University,Lousiana,Baton Rouge,,https://sites01.lsu.edu/faculty/rkartika/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Semin Lee,Louisiana State University,Lousiana,Baton Rouge,,https://www.seminlee.com/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Justin Ragains,Louisiana State University,Lousiana,Baton Rouge,,https://faculty.lsu.edu/ragains/index.php,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Carol Taylor,Louisiana State University,Lousiana,Baton Rouge,,https://faculty.lsu.edu/cmtaylor/index.php,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Mark Trudell,University of New Orleans,Lousiana,New Orleans,,https://www.uno.edu/profile/faculty/mark_trudell,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Rendy Kartika,Louisiana State University,Louisiana,Baton Rouge,,https://sites01.lsu.edu/faculty/rkartika/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Semin Lee,Louisiana State University,Louisiana,Baton Rouge,,https://www.seminlee.com/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Justin Ragains,Louisiana State University,Louisiana,Baton Rouge,,https://faculty.lsu.edu/ragains/index.php,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Carol Taylor,Louisiana State University,Louisiana,Baton Rouge,,https://faculty.lsu.edu/cmtaylor/index.php,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Mark Trudell,University of New Orleans,Louisiana,New Orleans,,https://www.uno.edu/profile/faculty/mark_trudell,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Matthew Brichacek,University of Maine,Maine,Orono,,https://umaine.edu/brichlab/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Thomas Lectka,Johns Hopkins University,Maryland,Baltimore,,http://lectka.chemistry.jhu.edu/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Rebekka Klausen,Johns Hopkins University,Maryland,Baltimore,,https://pages.jh.edu/chem/klausen/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
@@ -235,50 +235,50 @@ Daniel Appella,NIH,Maryland,,,https://www.niddk.nih.gov/research-funding/at-nidd
 John Schneekloth,NIH,Maryland,,,https://irp.nih.gov/pi/john-schneekloth,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Martin Schnermann,NIH,Maryland,,,https://ccr.cancer.gov/chemical-biology-laboratory/martin-j-schnermann,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Clifton Barry,NIH,Maryland,,,https://www.niaid.nih.gov/research/clifton-e-barry-iii-phd,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Amir Hoveyda,Boston College,Massachussetts,Chestnut Hill,,https://sites.bc.edu/amir-hoveyda/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-James Morken,Boston College,Massachussetts,Chestnut Hill,,https://sites.google.com/bc.edu/james-morken//,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Marc Snapper,Boston College,Massachussetts,Chestnut Hill,,https://sites.bc.edu/marc-snapper/marc-snapper/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Masayuki Wasa,Boston College,Massachussetts,Chestnut Hill,,https://sites.google.com/bc.edu/masayuki-wasa/home,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-X. Peter Zhang,Boston College,Massachussetts,Chestnut Hill,,https://sites.bc.edu/peter-zhang/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Aaron Beeler,Boston University,Massachussetts,Boston,,https://www.bu.edu/chemistry/faculty/beeler/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-James Panek,Boston University,Massachussetts,Boston,,http://people.bu.edu/panek/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-John Porco,Boston University,Massachussetts,Boston,,https://www.porcogroup.com/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Scott Shaus,Boston University,Massachussetts,Boston,,https://www.bu.edu/chemistry/faculty/schaus/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-John Snyder,Boston University,Massachussetts,Boston,,http://people.bu.edu/jsnyder/index.htm,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Barry Snider,Brandeis University,Massachussetts,Waltham,,http://blogs.brandeis.edu/snidergroup/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Isaac Krauss,Brandeis University,Massachussetts,Waltham,,http://people.brandeis.edu/~kraussi/index.html,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Chi Ting,Brandeis University,Massachussetts,Waltham,,https://www.brandeis.edu/chemistry/faculty/ting-chi.html,synthetic organic,True,https://www.brandeis.edu/chemistry/faculty/ting-chi.html,https://www.organicdivision.org/organicsyntheticfaculty/
-Hao Xu,Brandeis University,Massachussetts,Waltham,,https://www.brandeis.edu/chemistry/faculty/xu-hao.html,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-E. J. Corey,Harvard University,Massachussetts,Cambridge,,https://faculty.chemistry.harvard.edu/elias-corey,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Yoshito Kishi,Harvard University,Massachussetts,Cambridge,,https://faculty.chemistry.harvard.edu/yoshito-kishi,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Eric Jacobsen,Harvard University,Massachussetts,Cambridge,,http://www.people.fas.harvard.edu/~jacobsengroup/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Andrew Myers,Harvard University,Massachussetts,Cambridge,,https://faculty.chemistry.harvard.edu/myers,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Stuart Schreiber,Harvard University,Massachussetts,Cambridge,,https://www.broadinstitute.org/bios/stuart-l-schreiber,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Matthew Shair,Harvard University,Massachussetts,Cambridge,,http://www.shairlab.com,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Daniel Kahne,Harvard University,Massachussetts,Cambridge,,https://kahnelab.chemistry.harvard.edu/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Christina Woo,Harvard University,Massachussetts,Cambridge,,http://www.woolab.org,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Rick Danheiser,Massachusetts Institute of Technology,Massachussetts,Cambridge,,http://danheiserlab.mit.edu/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Timothy Jamison,Massachusetts Institute of Technology,Massachussetts,Cambridge,,http://web.mit.edu/chemistry/jamison/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Laura Kiessling,Massachusetts Institute of Technology,Massachussetts,Cambridge,,https://chemistry.mit.edu/profile/laura-l-kiessling/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Stephen Buchwald,Massachusetts Institute of Technology,Massachussetts,Cambridge,,https://chemistry-buchwald.mit.edu,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Mohammad Movassaghi,Massachusetts Institute of Technology,Massachussetts,Cambridge,,http://web.mit.edu/movassag/www/index.htm,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Alexander Radosevich,Massachusetts Institute of Technology,Massachussetts,Cambridge,,http://web.mit.edu/radosevichlab/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Alison Wendlandt,Massachusetts Institute of Technology,Massachussetts,Cambridge,,https://wendlandtlab.com,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Clay Bennett,Tufts University,Massachussetts,Medford,,https://ase.tufts.edu/chemistry/bennett/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-George O’Doherty,Northeastern University,Massachussetts,Boston,,https://www.northeastern.edu/odoherty/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Roman Manetsch,Northeastern University,Massachussetts,Boston,,https://manetschlab.com/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-James Dittami,Worcester Polytechnic  University,Massachussetts,Worcester,,https://www.wpi.edu/people/faculty/jdittami,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Anita Mattson,Worcester Polytechnic  University,Massachussetts,Worcester,,https://www.amattson.com,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Patricia Musacchio,Worcester Polytechnic  University,Massachussetts,Worcester,,https://www.zhang-musacchioresearchgroup.com/,synthetic organic,True,https://www.zhang-musacchioresearchgroup.com/,https://www.organicdivision.org/organicsyntheticfaculty/
-Sivappa Rasapalli,University of Massachusetts Dartmouth,Massachussetts,North Dartmouth,,https://www.umassd.edu/cas/chemistry/faculty--staff/sivappa-rasapalli/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Wei Zhang,University of Massachusetts Boston,Massachussetts,Boston,,http://alpha.chem.umb.edu/faculty/zhang/code/index.htm,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Amir Hoveyda,Boston College,Massachusetts,Chestnut Hill,,https://sites.bc.edu/amir-hoveyda/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+James Morken,Boston College,Massachusetts,Chestnut Hill,,https://sites.google.com/bc.edu/james-morken//,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Marc Snapper,Boston College,Massachusetts,Chestnut Hill,,https://sites.bc.edu/marc-snapper/marc-snapper/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Masayuki Wasa,Boston College,Massachusetts,Chestnut Hill,,https://sites.google.com/bc.edu/masayuki-wasa/home,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+X. Peter Zhang,Boston College,Massachusetts,Chestnut Hill,,https://sites.bc.edu/peter-zhang/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Aaron Beeler,Boston University,Massachusetts,Boston,,https://www.bu.edu/chemistry/faculty/beeler/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+James Panek,Boston University,Massachusetts,Boston,,http://people.bu.edu/panek/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+John Porco,Boston University,Massachusetts,Boston,,https://www.porcogroup.com/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Scott Shaus,Boston University,Massachusetts,Boston,,https://www.bu.edu/chemistry/faculty/schaus/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+John Snyder,Boston University,Massachusetts,Boston,,http://people.bu.edu/jsnyder/index.htm,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Barry Snider,Brandeis University,Massachusetts,Waltham,,http://blogs.brandeis.edu/snidergroup/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Isaac Krauss,Brandeis University,Massachusetts,Waltham,,http://people.brandeis.edu/~kraussi/index.html,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Chi Ting,Brandeis University,Massachusetts,Waltham,,https://www.brandeis.edu/chemistry/faculty/ting-chi.html,synthetic organic,true,https://www.brandeis.edu/chemistry/faculty/ting-chi.html,https://www.organicdivision.org/organicsyntheticfaculty/
+Hao Xu,Brandeis University,Massachusetts,Waltham,,https://www.brandeis.edu/chemistry/faculty/xu-hao.html,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+E. J. Corey,Harvard University,Massachusetts,Cambridge,,https://faculty.chemistry.harvard.edu/elias-corey,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Yoshito Kishi,Harvard University,Massachusetts,Cambridge,,https://faculty.chemistry.harvard.edu/yoshito-kishi,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Eric Jacobsen,Harvard University,Massachusetts,Cambridge,,http://www.people.fas.harvard.edu/~jacobsengroup/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Andrew Myers,Harvard University,Massachusetts,Cambridge,,https://faculty.chemistry.harvard.edu/myers,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Stuart Schreiber,Harvard University,Massachusetts,Cambridge,,https://www.broadinstitute.org/bios/stuart-l-schreiber,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Matthew Shair,Harvard University,Massachusetts,Cambridge,,http://www.shairlab.com,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Daniel Kahne,Harvard University,Massachusetts,Cambridge,,https://kahnelab.chemistry.harvard.edu/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Christina Woo,Harvard University,Massachusetts,Cambridge,,http://www.woolab.org,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Rick Danheiser,Massachusetts Institute of Technology,Massachusetts,Cambridge,,http://danheiserlab.mit.edu/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Timothy Jamison,Massachusetts Institute of Technology,Massachusetts,Cambridge,,http://web.mit.edu/chemistry/jamison/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Laura Kiessling,Massachusetts Institute of Technology,Massachusetts,Cambridge,,https://chemistry.mit.edu/profile/laura-l-kiessling/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Stephen Buchwald,Massachusetts Institute of Technology,Massachusetts,Cambridge,,https://chemistry-buchwald.mit.edu,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Mohammad Movassaghi,Massachusetts Institute of Technology,Massachusetts,Cambridge,,http://web.mit.edu/movassag/www/index.htm,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Alexander Radosevich,Massachusetts Institute of Technology,Massachusetts,Cambridge,,http://web.mit.edu/radosevichlab/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Alison Wendlandt,Massachusetts Institute of Technology,Massachusetts,Cambridge,,https://wendlandtlab.com,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Clay Bennett,Tufts University,Massachusetts,Medford,,https://ase.tufts.edu/chemistry/bennett/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+George O’Doherty,Northeastern University,Massachusetts,Boston,,https://www.northeastern.edu/odoherty/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Roman Manetsch,Northeastern University,Massachusetts,Boston,,https://manetschlab.com/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+James Dittami,Worcester Polytechnic  University,Massachusetts,Worcester,,https://www.wpi.edu/people/faculty/jdittami,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Anita Mattson,Worcester Polytechnic  University,Massachusetts,Worcester,,https://www.amattson.com,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Patricia Musacchio,Worcester Polytechnic  University,Massachusetts,Worcester,,https://www.zhang-musacchioresearchgroup.com/,synthetic organic,true,https://www.zhang-musacchioresearchgroup.com/,https://www.organicdivision.org/organicsyntheticfaculty/
+Sivappa Rasapalli,University of Massachusetts Dartmouth,Massachusetts,North Dartmouth,,https://www.umassd.edu/cas/chemistry/faculty--staff/sivappa-rasapalli/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Wei Zhang,University of Massachusetts Boston,Massachusetts,Boston,,http://alpha.chem.umb.edu/faculty/zhang/code/index.htm,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Anna Mapp,University of Michigan,Michigan,Ann Arbor,,https://www.lsi.umich.edu/science/our-labs/anna-mapp-lab,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Ann McNeil,University of Michigan,Michigan,Ann Arbor,,https://mcneilgroup.chem.lsa.umich.edu,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 John Montgomery,University of Michigan,Michigan,Ann Arbor,,http://www.umich.edu/%7Ejmgroup/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Pavel Nagorny,University of Michigan,Michigan,Ann Arbor,,http://www.umich.edu/~nagornyp/index.html,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Alison Narayan,University of Michigan,Michigan,Ann Arbor,,https://www.lsi.umich.edu/science/our-labs/alison-narayan-lab,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Melanie Sanford,University of Michigan,Michigan,Ann Arbor,,https://sites.lsa.umich.edu/msanford-lab/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Corey Stephenson,University of Michigan,Michigan,Ann Arbor,,http://www.umich.edu/~crsgroup/,synthetic organic,True,https://www.thestephensongroup.org/,https://www.organicdivision.org/organicsyntheticfaculty/
+Corey Stephenson,University of Michigan,Michigan,Ann Arbor,,http://www.umich.edu/~crsgroup/,synthetic organic,true,https://www.thestephensongroup.org/,https://www.organicdivision.org/organicsyntheticfaculty/
 Corinna Schindler,University of Michigan,Michigan,Ann Arbor,,https://www.schindlerresearchgroup.com/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 John Wolfe,University of Michigan,Michigan,Ann Arbor,,http://www.umich.edu/%7Ewolfelab/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Jeremy Kodanko,Wayne State University,Michigan,Detroit,,http://kodankolab.wayne.edu/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
@@ -328,14 +328,14 @@ Charles Zercher,University of New Hampshire,New Hampshire,Durham,,https://ceps.u
 Gordon Gribble,Dartmouth College,New Hampshire,Hanover,,https://chemistry.dartmouth.edu/people/gordon-wayne-gribble,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 David Glueck,Dartmouth College,New Hampshire,Hanover,,https://chemistry.dartmouth.edu/people/david-s-glueck,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Peter Jacobi,Dartmouth College,New Hampshire,Hanover,,https://chemistry.dartmouth.edu/people/peter-alan-jacobi,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Christopher Sandford,Dartmouth College,New Hampshire,Hanover,,http://www.sandfordlab.com,synthetic organic,True,https://www.sandfordlab.com/group#h.v0aakektidsl,https://www.organicdivision.org/organicsyntheticfaculty/
+Christopher Sandford,Dartmouth College,New Hampshire,Hanover,,http://www.sandfordlab.com,synthetic organic,true,https://www.sandfordlab.com/group#h.v0aakektidsl,https://www.organicdivision.org/organicsyntheticfaculty/
 Jimmy Wu,Dartmouth College,New Hampshire,Hanover,,https://sites.dartmouth.edu/jimmywu/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Glenn Micalizio,Dartmouth College,New Hampshire,Hanover,,https://chemistry.dartmouth.edu/people/glenn-c-micalizio,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Daniel Seidel,Rutgers University,New Jersey,New Brunswick,,http://www.seidel-group.com,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Joel Freundlich,Rutgers University,New Jersey,New Brunswick,,http://njms.rutgers.edu/departments/labs/freundlich/index.cfm,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Spencer Knapp,Rutgers University,New Jersey,New Brunswick,,https://rutchem.rutgers.edu/research/faculty-research/167-knapp-spencer,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Lawrence Williams,Rutgers University,New Jersey,New Brunswick,,https://rutchem.rutgers.edu/research/faculty-research/200-williams-lawrence-j,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Michal Szostak,Rutgers University - Newark,New Jersey,Newark,,https://szostakgroup.com/,synthetic organic,True,https://szostakgroup.com/,https://www.organicdivision.org/organicsyntheticfaculty/
+Michal Szostak,Rutgers University - Newark,New Jersey,Newark,,https://szostakgroup.com/,synthetic organic,true,https://szostakgroup.com/,https://www.organicdivision.org/organicsyntheticfaculty/
 Erik Sorensen,Princeton University,New Jersey,Princeton,,https://sorensen.princeton.edu/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 David MacMillan,Princeton University,New Jersey,Princeton,,https://macmillan.princeton.edu/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Robert Knowles,Princeton University,New Jersey,Princeton,,https://knowleslab.princeton.edu,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
@@ -439,7 +439,7 @@ Kay Brummond,University of Pittsburgh,Pennsylvania,Pittsburgh,,https://brummondg
 Dennis Curran,University of Pittsburgh,Pennsylvania,Pittsburgh,,https://www.chem.pitt.edu/person/dennis-curran,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Alexander Deiters,University of Pittsburgh,Pennsylvania,Pittsburgh,,http://www.pitt.edu/~deiters/index.html,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Paul Floreancig,University of Pittsburgh,Pennsylvania,Pittsburgh,,https://floreancig.weebly.com/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Kazunori Koide,University of Pittsburgh,Pennsylvania,Pittsburgh,,https://www.chem.pitt.edu/person/kazunori-koide,synthetic organic,True,https://www.chem.pitt.edu/person/kazunori-koide,https://www.organicdivision.org/organicsyntheticfaculty/
+Kazunori Koide,University of Pittsburgh,Pennsylvania,Pittsburgh,,https://www.chem.pitt.edu/person/kazunori-koide,synthetic organic,true,https://www.chem.pitt.edu/person/kazunori-koide,https://www.organicdivision.org/organicsyntheticfaculty/
 Xinyu Liu,University of Pittsburgh,Pennsylvania,Pittsburgh,,http://www.pitt.edu/~xinyuliu/lab/Home.html,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Yiming Wang,University of Pittsburgh,Pennsylvania,Pittsburgh,,https://www.wanglab.chem.pitt.edu/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Peter Wipf,University of Pittsburgh,Pennsylvania,Pittsburgh,,http://ccc.chem.pitt.edu/wipf/index.html,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
@@ -467,19 +467,19 @@ Michio Kurosu,Tennessee Healthy Science Center,Tennessee,,,https://academic.uths
 Carmelo Rizzo,Vanderbilt University,Tennessee,Nashville,,https://www.vanderbilt.edu:443/chemistry/faculty/rizzo.php,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Gary Sulikowski,Vanderbilt University,Tennessee,Nashville,,https://lab.vanderbilt.edu/sulikowski-lab/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Jeffrey Johnston,Vanderbilt University,Tennessee,Nashville,,http://www.johnstonchemistry.org/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Craig Lindsley,Vanderbilt University,Tennessee,Nashville,,https://lab.vanderbilt.edu/lindsleylab/,synthetic organic,True,https://lab.vanderbilt.edu/lindsleylab/,https://www.organicdivision.org/organicsyntheticfaculty/
+Craig Lindsley,Vanderbilt University,Tennessee,Nashville,,https://lab.vanderbilt.edu/lindsleylab/,synthetic organic,true,https://lab.vanderbilt.edu/lindsleylab/,https://www.organicdivision.org/organicsyntheticfaculty/
 Steven Townsend,Vanderbilt University,Tennessee,Nashville,,https://www.townsendchemistry.org,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Richard Lee,St. Jude Children's Hospital,Tennessee,Memphis,,https://www.stjuderesearch.org/site/lab/lee,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Fatima Rivas,St. Jude Children's Hospital,Tennessee,Memphis,,https://www.stjuderesearch.org/site/404,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Bob Kane,Baylor University,Texas,Waco,,https://www.bobkanelab.com/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Kevin Pinney,Baylor University,Texas,Waco,,https://sites.baylor.edu/pinneygroup/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Liela Romero,Baylor University,Texas,Waco,,https://www.theromerolab.com/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Daniel Romo,Baylor University,Texas,Waco,,http://www.danielromogroup.com,synthetic organic,True,https://baylorsynthesisdrugleadlab.com/,https://www.organicdivision.org/organicsyntheticfaculty/
-John Wood,Baylor University,Texas,Waco,,https://www.johnwoodgroup.com,synthetic organic,True,https://www.johnwoodgroup.com,https://www.organicdivision.org/organicsyntheticfaculty/
+Daniel Romo,Baylor University,Texas,Waco,,http://www.danielromogroup.com,synthetic organic,true,https://baylorsynthesisdrugleadlab.com/,https://www.organicdivision.org/organicsyntheticfaculty/
+John Wood,Baylor University,Texas,Waco,,https://www.johnwoodgroup.com,synthetic organic,true,https://www.johnwoodgroup.com,https://www.organicdivision.org/organicsyntheticfaculty/
 Jef De Brabander,University of Texas Southwestern Medical,Texas,,,http://www4.utsouthwestern.edu/jdebralab/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Joseph Ready,University of Texas Southwestern Medical,Texas,,,https://www.utsouthwestern.edu/labs/ready/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Chuo Chen,University of Texas Southwestern Medical,Texas,,,https://www.utsouthwestern.edu/labs/chen-chuo/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Uttam Tambar,University of Texas Southwestern Medical,Texas,,,https://www.utsouthwestern.edu/labs/tambar/,synthetic organic,True,https://www.utsouthwestern.edu/labs/tambar/,https://www.organicdivision.org/organicsyntheticfaculty/
+Uttam Tambar,University of Texas Southwestern Medical,Texas,,,https://www.utsouthwestern.edu/labs/tambar/,synthetic organic,true,https://www.utsouthwestern.edu/labs/tambar/,https://www.organicdivision.org/organicsyntheticfaculty/
 Tian Qin,University of Texas Southwestern Medical,Texas,,,https://www.utsouthwestern.edu/labs/qin/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Myles Smith,University of Texas Southwestern Medical,Texas,,,https://www.utsouthwestern.edu/labs/smith-myles/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Kevin Burgess,Texas A & M University,Texas,College Station,,https://www.chem.tamu.edu/rgroup/burgess/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
@@ -488,14 +488,14 @@ Frank Foss,University of Texas - Arlington,Texas,Arlington,,https://www.uta.edu/
 Junha Jeon,University of Texas - Arlington,Texas,Arlington,,https://www.uta.edu/chemistry/faculty/junha_jeon.php,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Hyunsoo Han,University of Texas - San Antonio,Texas,San Antonio,,https://chemistry.utsa.edu/archives/853,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 George Negrete,University of Texas - San Antonio,Texas,San Antonio,,https://chemistry.utsa.edu/archives/878,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Oleg Larionov,University of Texas - San Antonio,Texas,San Antonio,,http://larionovgroup.com/,synthetic organic,True,http://larionovgroup.com/,https://www.organicdivision.org/organicsyntheticfaculty/
+Oleg Larionov,University of Texas - San Antonio,Texas,San Antonio,,http://larionovgroup.com/,synthetic organic,true,http://larionovgroup.com/,https://www.organicdivision.org/organicsyntheticfaculty/
 John C.-G. Zhao,University of Texas - San Antonio,Texas,San Antonio,,https://chemistry.utsa.edu/archives/897,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Doug Frantz,University of Texas - San Antonio,Texas,San Antonio,,https://chemistry.utsa.edu/frantzlab/dr-frantz/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Michael Doyle,University of Texas - San Antonio,Texas,San Antonio,,https://chemistry.utsa.edu/doylelab/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Shizue Mito,University of Texas - El Paso,Texas,El Paso,,http://utminers.utep.edu/smito2/research.html,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Jung-Mo Ahn,University of Texas - Dallas,Texas,Dallas,,https://labs.utdallas.edu/ahn/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Vladimir Gevorgyan,University of Texas - Dallas,Texas,Dallas,,https://labs.utdallas.edu/gevorgyan-group/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Eric Welin,University of Texas - Dallas,Texas,Dallas,,https://profiles.utdallas.edu/ewelin,synthetic organic,True,https://jobs.utdallas.edu/postings/14133,https://www.organicdivision.org/organicsyntheticfaculty/
+Eric Welin,University of Texas - Dallas,Texas,Dallas,,https://profiles.utdallas.edu/ewelin,synthetic organic,true,https://jobs.utdallas.edu/postings/14133,https://www.organicdivision.org/organicsyntheticfaculty/
 Zachary Ball,Rice University,Texas,Houston,,http://www.ztb.rice.edu/index.html,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 K. C. Nicolaou,Rice University,Texas,Houston,,http://nicolaou.rice.edu,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 László Kürti,Rice University,Texas,Houston,,http://kurtilabs.com/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
@@ -516,7 +516,7 @@ Greg Cuny,University of Houston,Texas,Houston,,https://uh.edu/pharmacy/directory
 Sergei Dzyuba,Texas Christian University,Texas,,,http://personal.tcu.edu/sdzyuba/HOME.html,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Eric Simanek,Texas Christian University,Texas,,,http://ericsimanek.com/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Merritt Andrus,Brigham Young University,Utah,,,https://www.chem.byu.edu/faculty/merritt-b-andrus/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Steven Castle,Brigham Young University,Utah,,,https://www.chem.byu.edu/faculty/steven-l-castle/,synthetic organic,True,https://chembio.byu.edu/castle-lab,https://www.organicdivision.org/organicsyntheticfaculty/
+Steven Castle,Brigham Young University,Utah,,,https://www.chem.byu.edu/faculty/steven-l-castle/,synthetic organic,true,https://chembio.byu.edu/castle-lab,https://www.organicdivision.org/organicsyntheticfaculty/
 Matt Peterson,Brigham Young University,Utah,,,https://www.chem.byu.edu/faculty/matt-a-peterson/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Paul Savage,Brigham Young University,Utah,,,https://www.chem.byu.edu/faculty/paul-b-savage/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 David Michaelis,Brigham Young University,Utah,,,https://www.chem.byu.edu/faculty/david-j-michaelis/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
@@ -529,16 +529,16 @@ Bradley Davidson,Utah State University,Utah,,,https://chem.usu.edu/faculty_staff
 Tom Chang,Utah State University,Utah,,,http://ion.chem.usu.edu/~tchang/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Jose Madalengoitia,University of Vermont,Vermont,,,https://www.uvm.edu/cas/chemistry/profiles/jose-s-madalengoitia,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Matthias Brewer,University of Vermont,Vermont,,,https://www.uvm.edu/cas/chemistry/profiles/matthias-brewer,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Dean Harman,University of Virgina,Virgina,Charlottesville,,https://sites.google.com/view/the-harman-lab-uva/home,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-T. Brent Gunnoe,University of Virgina,Virgina,Charlottesville,,https://gunnoelab.virginia.edu/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Michael Hilinski,University of Virgina,Virgina,Charlottesville,,https://www.hilinskilab.com/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Lin Pu,University of Virgina,Virgina,Charlottesville,,https://chemistry.as.virginia.edu/people/profile/lp6n,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Paul Carlier,Virginia Polytechnic Institute and State University,Virgina,Blacksburg,,https://www.carlierlab.com,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Felicia Etzkorn,Virginia Polytechnic Institute and State University,Virgina,Blacksburg,,https://chem.vt.edu/people/faculty/teaching-and-research/fetzkorn.html,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-David Kingston,Virginia Polytechnic Institute and State University,Virgina,Blacksburg,,https://kingstonchem.wp.prod.es.cloud.vt.edu/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Webster Santos,Virginia Polytechnic Institute and State University,Virgina,Blacksburg,,https://www.santosgroup.chem.vt.edu:443/,synthetic organic,True,https://www.santosgroup.chem.vt.edu,https://www.organicdivision.org/organicsyntheticfaculty/
-Kyle Lambert,Old Dominion University,Virgina,Norfolk,,https://sites.wp.odu.edu/thelambertgroup/,synthetic organic,True,https://sites.wp.odu.edu/thelambertgroup/postdoctoral-position-in-synthetic-organic-chemistry-available/,https://www.organicdivision.org/organicsyntheticfaculty/
-Guijun Wang,Old Dominion University,Virgina,Norfolk,,https://sites.google.com/a/odu.edu/wang-group/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Dean Harman,University of Virgina,Virginia,Charlottesville,,https://sites.google.com/view/the-harman-lab-uva/home,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+T. Brent Gunnoe,University of Virgina,Virginia,Charlottesville,,https://gunnoelab.virginia.edu/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Michael Hilinski,University of Virgina,Virginia,Charlottesville,,https://www.hilinskilab.com/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Lin Pu,University of Virgina,Virginia,Charlottesville,,https://chemistry.as.virginia.edu/people/profile/lp6n,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Paul Carlier,Virginia Polytechnic Institute and State University,Virginia,Blacksburg,,https://www.carlierlab.com,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Felicia Etzkorn,Virginia Polytechnic Institute and State University,Virginia,Blacksburg,,https://chem.vt.edu/people/faculty/teaching-and-research/fetzkorn.html,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+David Kingston,Virginia Polytechnic Institute and State University,Virginia,Blacksburg,,https://kingstonchem.wp.prod.es.cloud.vt.edu/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
+Webster Santos,Virginia Polytechnic Institute and State University,Virginia,Blacksburg,,https://www.santosgroup.chem.vt.edu:443/,synthetic organic,true,https://www.santosgroup.chem.vt.edu,https://www.organicdivision.org/organicsyntheticfaculty/
+Kyle Lambert,Old Dominion University,Virginia,Norfolk,,https://sites.wp.odu.edu/thelambertgroup/,synthetic organic,true,https://sites.wp.odu.edu/thelambertgroup/postdoctoral-position-in-synthetic-organic-chemistry-available/,https://www.organicdivision.org/organicsyntheticfaculty/
+Guijun Wang,Old Dominion University,Virginia,Norfolk,,https://sites.google.com/a/odu.edu/wang-group/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Ming Xian,Washington State University,Washington,Pullman,,https://xian.chem.wsu.edu/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Phil Garner,Washington State University,Washington,Pullman,,https://garner.chem.wsu.edu/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Forrest Michael,University of Washington,Washington,Seattle,,https://chem.washington.edu/people/forrest-e-michael,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
@@ -565,4 +565,4 @@ James Cook,University of Wisconsin - Milwaukee,Wisconsin,Milwaukee,,https://site
 Christopher Dockendorff,Marquette University,Wisconsin,Milwaukee,,https://dockendorfflab.wordpress.com/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 William Donaldson,Marquette University,Wisconsin,Milwaukee,,https://www.marquette.edu/chemistry/directory/william-donaldson.php,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
 Mahmun Hossain,University of Wisconsin - Milwaukee,Wisconsin,Milwaukee,,https://uwm.edu/chemistry/people/hossain-m-mahmun/,synthetic organic,,,https://www.organicdivision.org/organicsyntheticfaculty/
-Michael Taylor,University of Wyoming,Wyoming,,,https://www.taylorresearchgroup.org/,synthetic organic,True,https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/211346,https://www.organicdivision.org/organicsyntheticfaculty/
+Michael Taylor,University of Wyoming,Wyoming,,,https://www.taylorresearchgroup.org/,synthetic organic,true,https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/211346,https://www.organicdivision.org/organicsyntheticfaculty/
