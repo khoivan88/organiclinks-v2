@@ -7,16 +7,16 @@ module.exports = () => {
   return new Promise((resolve, reject) => {
     var objects = []
     csv.parseFile(file, {'headers': true})
-    .on('error', error => console.error(error))
-    .on('data', row => {
+      .on('error', error => console.error(error))
+      .on('data', row => {
       // console.log(`ROW=${JSON.stringify(row)}`)
 
-      objects.push(row)
-    })
-    .on('end', rowCount => {
+        objects.push(row)
+      })
+      .on('end', rowCount => {
       // console.log(`Parsed ${rowCount} rows`)
       // console.log(objects)
-      return resolve(objects)
-    });
+        return resolve(objects)
+      });
   })
 }

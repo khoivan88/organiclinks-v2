@@ -9,7 +9,7 @@
   "author": "Khoi Van",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.1",
+    "@11ty/eleventy": "^0.12.1",
     "fast-csv": "^4.3.6",
     "hyperlink": "^4.6.0"
   }
