@@ -19,13 +19,15 @@ permalink: 'organicsyntheticfaculty.html'
 {%- for state, faculties in faculties | groupby("state") | dictsort %}
     <h3>{{ state }}</h3>
     <ul class='faclist'>
-    {%- for faculty in faculties %}
+    {%- for school, faculties in faculties | groupby("school") | dictsort %}
+        {%- for faculty in faculties %}
         <li>
             <a href="{{ faculty.website | url }}">{{ faculty.primary_investigator }}</a>, {{ faculty.school }}
             {%- if faculty.postdoc_wanted -%}
             <a href="{{ faculty.postdoc_ads_link }}" style="color:red;font-weight:bold; background-color:yellow; margin-left: 10px;">Postdoc Wanted</a>
             {%- endif %}
         </li>
+        {%- endfor %}
     {%- endfor %}
     </ul>
     <hr>
