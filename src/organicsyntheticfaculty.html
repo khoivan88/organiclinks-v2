@@ -26,7 +26,7 @@ permalink: 'organicsyntheticfaculty.html'
             {%- if faculty.postdoc_wanted -%}
             {%- set ads_expired = faculty.postdoc_ads_expiration_date | expirationFilter -%}
                 {%- if not ads_expired -%}
-                <a href="{{ faculty.postdoc_ads_link }}" style="color:red;font-weight:bold; background-color:yellow; margin-left: 10px;">Postdoc Wanted</a>
+                <a href="{{ faculty.postdoc_ads_link }}" target="_blank" rel="noopener" style="color:red;font-weight:bold; background-color:yellow; margin-left: 10px;">Postdoc Wanted</a>
                 {%- endif %}
             {%- endif %}
         </li>
