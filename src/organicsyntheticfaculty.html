@@ -22,9 +22,16 @@ permalink: 'organicsyntheticfaculty.html'
     {%- for school, faculties in faculties | groupby("school") | dictsort %}
         {%- for faculty in faculties %}
         <li>
-            <a href="{{ faculty.website | url }}">{{ faculty.primary_investigator }}</a>, {{ faculty.school }}
+            <a href="{{ faculty.website | url }}" target="_blank" rel="noopener">{{ faculty.primary_investigator }}</a>, {{ faculty.school }}
             {%- if faculty.postdoc_wanted -%}
-            <a href="{{ faculty.postdoc_ads_link }}" style="color:red;font-weight:bold; background-color:yellow; margin-left: 10px;">Postdoc Wanted</a>
+            {# {%- set ads_expiration_date = faculty.postdoc_ads_expiration_date | dateFilter -%} #}
+            {# {{ ads_expiration_date | log }} #}
+            {# {{ page.date | log }} #}
+            {%- set ads_expired = faculty.postdoc_ads_expiration_date | expirationFilter -%}
+            {# {{ ads_expired | log }} #}
+                {%- if not ads_expired -%}
+                <a href="{{ faculty.postdoc_ads_link }}" style="color:red;font-weight:bold; background-color:yellow; margin-left: 10px;">Postdoc Wanted</a>
+                {%- endif %}
             {%- endif %}
         </li>
         {%- endfor %}
