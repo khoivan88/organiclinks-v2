@@ -4,7 +4,11 @@ permalink: 'organicsyntheticfaculty.html'
 <p>
     <img src="https://www.organicdivision.org/wp-content/uploads/2020/01/organiclinks-450x84.jpg"
         alt="Organiclinks Logo" width="450" height="84" class="alignright size-medium wp-image-9748" />
-    The following list of United States Synthetic Organic Faculty was originally compiled by Professor <a href="https://fulbright.uark.edu/departments/chemistry/directory/index/uid/mcintosh/name/Matt-McIntosh/"> Matt McIntosh</a>, University of Arkansas and was called Organiclinks. He created the list in the late 1990's and maintained it for 20+ years for the members of his group and those of the organic community. The Links here are provided as a service to the organic chemistry community. They are not an endorsement by the Division.
+    The following list of United States Synthetic Organic Faculty was originally compiled by Professor <a
+        href="https://fulbright.uark.edu/departments/chemistry/directory/index/uid/mcintosh/name/Matt-McIntosh/"> Matt
+        McIntosh</a>, University of Arkansas and was called Organiclinks. He created the list in the late 1990's and
+    maintained it for 20+ years for the members of his group and those of the organic community. The Links here are
+    provided as a service to the organic chemistry community. They are not an endorsement by the Division.
 
     If you would like us to add your group, recommend other chemists and/or links, advertise for a postdoc position, or
     submit a comment or suggestion, please use the <a target='_blank' href="https://forms.gle/E34DVqd6uuc53McM8"
@@ -17,23 +21,25 @@ permalink: 'organicsyntheticfaculty.html'
 
 
 {%- for state, faculties in faculties | groupby("state") | dictsort %}
-    <h3>{{ state }}</h3>
-    <ul class='faclist'>
+<h3>{{ state }}</h3>
+<ul class='faclist'>
     {%- for school, faculties in faculties | groupby("school") | dictsort %}
-        {%- for faculty in faculties %}
-        <li>
-            <a href="{{ faculty.website | url }}" target="_blank" rel="noopener">{{ faculty.primary_investigator }}</a>, {{ faculty.school }}
-            {%- if faculty.postdoc_wanted -%}
-            {%- set ads_expired = faculty.postdoc_ads_expiration_date | expirationFilter -%}
-                {%- if not ads_expired -%}
-                <a href="{{ faculty.postdoc_ads_link }}" target="_blank" rel="noopener" style="color:red;font-weight:bold; background-color:yellow; margin-left: 10px;">Postdoc Wanted</a>
-                {%- endif %}
-            {%- endif %}
-        </li>
-        {%- endfor %}
+    {%- for faculty in faculties %}
+    <li>
+        <a href="{{ faculty.website | url }}" target="_blank" rel="noopener">{{ faculty.pi_first_name }} {{
+            faculty.pi_last_name }}</a>, {{ faculty.school }}
+        {%- if faculty.postdoc_wanted -%}
+        {%- set ads_expired = faculty.postdoc_ads_expiration_date | expirationFilter -%}
+        {%- if not ads_expired -%}
+        <a href="{{ faculty.postdoc_ads_link }}" target="_blank" rel="noopener"
+            style="color:red;font-weight:bold; background-color:yellow; margin-left: 10px;">Postdoc Wanted</a>
+        {%- endif %}
+        {%- endif %}
+    </li>
     {%- endfor %}
-    </ul>
-    <hr>
+    {%- endfor %}
+</ul>
+<hr>
 {%- endfor %}
 
 <h3>
@@ -127,9 +133,20 @@ permalink: 'organicsyntheticfaculty.html'
     History
 </h3>
 <p>
-    Professor McIntosh indicated that the concise list was created so that his students would become aware of all the active organic synthetic chemists in the United States because he wanted them to be aware of the chemists who they might postdoc with and/or interact with at meetings and such throughout their early careers. This is not to say that organic chemistry done elsewhere in the world is not excellent and important. He just realized that keeping a list like this was not going to be an easy task especially if it expanded to include faculty of other sub disciples of organic chemistry and/or elsewhere in the world.
+    Professor McIntosh indicated that the concise list was created so that his students would become aware of all the
+    active organic synthetic chemists in the United States because he wanted them to be aware of the chemists who they
+    might postdoc with and/or interact with at meetings and such throughout their early careers. This is not to say that
+    organic chemistry done elsewhere in the world is not excellent and important. He just realized that keeping a list
+    like this was not going to be an easy task especially if it expanded to include faculty of other sub disciples of
+    organic chemistry and/or elsewhere in the world.
 
-    In 2020, Professor McIntosh turned the list over to the Division of Organic Chemistry to host and maintain. The Division leadership is willing to host the list; however, the content of the list has been relegated to a subcommittee who are not necessarily members of the Executive Committee (we are looking for DOC members who are willing to volunteer to keep this list in working order).
+    In 2020, Professor McIntosh turned the list over to the Division of Organic Chemistry to host and maintain. The
+    Division leadership is willing to host the list; however, the content of the list has been relegated to a
+    subcommittee who are not necessarily members of the Executive Committee (we are looking for DOC members who are
+    willing to volunteer to keep this list in working order).
 
-    The Division is also willing to host other relevant lists of organic chemists provided a committee of chemists can be put together to appropriately compile and maintain the list. If you would like us to consider other chemists and/or links, please use the <a target='_blank' href="https://forms.gle/E34DVqd6uuc53McM8" rel="noopener noreferrer"> Contact the OrganicLinks Advisory Board</a> form.
+    The Division is also willing to host other relevant lists of organic chemists provided a committee of chemists can
+    be put together to appropriately compile and maintain the list. If you would like us to consider other chemists
+    and/or links, please use the <a target='_blank' href="https://forms.gle/E34DVqd6uuc53McM8"
+        rel="noopener noreferrer"> Contact the OrganicLinks Advisory Board</a> form.
 </p>
