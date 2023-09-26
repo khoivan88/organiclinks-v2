@@ -1,23 +1,29 @@
 url,status_code,reason,redirected_url,date_checked
-http://sibiresearch.com,403,Forbidden,,2023-09-25T08:16:46
-https://www.depts.ttu.edu/chemistry/Faculty/mayer/index.php,,"HTTPSConnectionPool(host='www.depts.ttu.edu', port=443): Max retries exceeded with url: /chemistry/Faculty/mayer/index.php (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1129)')))",,2023-09-25T08:16:45
-https://sites.wp.odu.edu/thelambertgroup/,,"HTTPSConnectionPool(host='sites.wp.odu.edu', port=443): Max retries exceeded with url: /thelambertgroup/ (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1129)')))",,2023-09-25T08:16:50
-https://www.usf.edu/arts-sciences/departments/chemistry/faculty/turos.aspx,,"HTTPSConnectionPool(host='www.usf.edu', port=443): Max retries exceeded with url: /arts-sciences/departments/chemistry/faculty/turos.aspx (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1129)')))",,2023-09-25T08:16:47
-http://danheiserlab.mit.edu,,"HTTPConnectionPool(host='danheiserlab.mit.edu', port=80): Read timed out. (read timeout=3)",,2023-09-25T08:16:45
-https://chem.vt.edu/people/faculty/teaching-and-research/fetzkorn.html,404,Not Found,,2023-09-25T08:16:46
-https://www.williamsresearchlab.com/,,"HTTPSConnectionPool(host='www.williamsresearchlab.com', port=443): Read timed out. (read timeout=3)",,2023-09-25T08:16:49
-https://www.uab.edu/cas/chemistry/people/faculty/pengfei-wang,,"HTTPSConnectionPool(host='www.uab.edu', port=443): Read timed out. (read timeout=3)",,2023-09-25T08:16:48
-https://burgessresearch.org,,"HTTPSConnectionPool(host='burgessresearch.org', port=443): Read timed out. (read timeout=3)",,2023-09-25T08:16:50
-https://chemistry.fau.edu/leporelab/leporelabhome.php,,"HTTPSConnectionPool(host='chemistry.fau.edu', port=443): Max retries exceeded with url: /leporelab/leporelabhome.php (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1129)')))",,2023-09-25T08:16:52
-https://search.asu.edu/profile/3503942,403,Forbidden,,2023-09-25T08:16:53
-http://xmshi.myweb.usf.edu/,404,Not Found,,2023-09-25T08:16:58
-https://chemistry.okstate.edu/bios/348-faculty-member-bio-bunce,404,Not Found,,2023-09-25T08:16:53
-https://sorensen.princeton.edu/,,"HTTPSConnectionPool(host='sorensen.princeton.edu', port=443): Read timed out. (read timeout=3)",,2023-09-25T08:16:54
-https://www.depts.ttu.edu/chemistry/Faculty/li/index.php,,"HTTPSConnectionPool(host='www.depts.ttu.edu', port=443): Max retries exceeded with url: /chemistry/Faculty/li/index.php (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1129)')))",,2023-09-25T08:16:52
-https://wei-li-jgtz.squarespace.com/,404,Not Found,,2023-09-25T08:16:57
-https://www.lkgackermanlab.com,404,Not Found,,2023-09-25T08:16:52
-https://people.brandeis.edu/~kraussi/index.html,,"HTTPSConnectionPool(host='people.brandeis.edu', port=443): Max retries exceeded with url: /~kraussi/index.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))",,2023-09-25T08:16:54
-https://aponick.chem.ufl.edu/Aponick_Research/Home.html,,"HTTPSConnectionPool(host='aponick.chem.ufl.edu', port=443): Max retries exceeded with url: /Aponick_Research/Home.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))",,2023-09-25T08:16:58
-http://faculty.cas.usf.edu/kbisht/,,"HTTPConnectionPool(host='faculty.cas.usf.edu', port=80): Max retries exceeded with url: /kbisht/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fb72be00100>, 'Connection to faculty.cas.usf.edu timed out. (connect timeout=3)'))",,2023-09-25T08:17:02
-https://ccr.cancer.gov/staff-directory/martin-j-schnermann,403,Forbidden,,2023-09-25T08:17:02
-https://chemistry-buchwald.mit.edu,,"HTTPSConnectionPool(host='chemistry-buchwald.mit.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1129)')))",,2023-09-25T08:17:02
+http://www.shairlab.com,,"HTTPConnectionPool(host='www.shairlab.com', port=80): Read timed out. (read timeout=3)",,2023-09-26T08:16:21
+https://sites.google.com/a/odu.edu/wang-group/,302,Moved Temporarily,https://www.google.com/a/odu.edu/ServiceLogin?service=jotspot&passive=1209600&continue=https://sites.google.com/a/odu.edu/sites/system/errors/WebspaceNotFound?path%3D/wang-group/&followup=https://sites.google.com/a/odu.edu/sites/system/errors/WebspaceNotFound?path%3D/wang-group/&ul=1,2023-09-26T08:16:21
+http://zarbi.chem.yale.edu/,,"HTTPConnectionPool(host='zarbi.chem.yale.edu', port=80): Read timed out. (read timeout=3)",,2023-09-26T08:16:27
+https://www.lkgackermanlab.com,404,Not Found,,2023-09-26T08:16:31
+https://chem.vt.edu/people/faculty/teaching-and-research/fetzkorn.html,404,Not Found,,2023-09-26T08:16:25
+https://wei-li-jgtz.squarespace.com/,404,Not Found,,2023-09-26T08:16:30
+https://bloomlabgroup.com,,"HTTPSConnectionPool(host='bloomlabgroup.com', port=443): Read timed out. (read timeout=3)",,2023-09-26T08:16:27
+https://chemistry.okstate.edu/bios/348-faculty-member-bio-bunce,404,Not Found,,2023-09-26T08:16:26
+https://ccr.cancer.gov/staff-directory/martin-j-schnermann,403,Forbidden,,2023-09-26T08:16:28
+http://danheiserlab.mit.edu,,"HTTPConnectionPool(host='danheiserlab.mit.edu', port=80): Read timed out. (read timeout=3)",,2023-09-26T08:16:28
+https://www.depts.ttu.edu/chemistry/Faculty/mayer/index.php,,"HTTPSConnectionPool(host='www.depts.ttu.edu', port=443): Max retries exceeded with url: /chemistry/Faculty/mayer/index.php (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1129)')))",,2023-09-26T08:16:32
+http://sibiresearch.com,403,Forbidden,,2023-09-26T08:16:29
+https://chemistry-buchwald.mit.edu,,"HTTPSConnectionPool(host='chemistry-buchwald.mit.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1129)')))",,2023-09-26T08:16:35
+https://www.depts.ttu.edu/chemistry/Faculty/li/index.php,,"HTTPSConnectionPool(host='www.depts.ttu.edu', port=443): Max retries exceeded with url: /chemistry/Faculty/li/index.php (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1129)')))",,2023-09-26T08:16:32
+https://glyco-world.com,,"HTTPSConnectionPool(host='glyco-world.com', port=443): Read timed out. (read timeout=3)",,2023-09-26T08:16:35
+https://sites.wp.odu.edu/thelambertgroup/,,"HTTPSConnectionPool(host='sites.wp.odu.edu', port=443): Max retries exceeded with url: /thelambertgroup/ (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1129)')))",,2023-09-26T08:16:31
+https://aponick.chem.ufl.edu/Aponick_Research/Home.html,,"HTTPSConnectionPool(host='aponick.chem.ufl.edu', port=443): Max retries exceeded with url: /Aponick_Research/Home.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))",,2023-09-26T08:16:37
+https://sites.udel.edu/mpwatson-lab/,,"HTTPSConnectionPool(host='sites.udel.edu', port=443): Read timed out. (read timeout=3)",,2023-09-26T08:16:33
+https://voices.uchicago.edu/donggroup/,,"HTTPSConnectionPool(host='voices.uchicago.edu', port=443): Read timed out. (read timeout=3)",,2023-09-26T08:16:32
+https://chemistry.fau.edu/leporelab/leporelabhome.php,,"HTTPSConnectionPool(host='chemistry.fau.edu', port=443): Max retries exceeded with url: /leporelab/leporelabhome.php (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1129)')))",,2023-09-26T08:16:36
+https://darkolab.utk.edu,,"HTTPSConnectionPool(host='darkolab.utk.edu', port=443): Read timed out. (read timeout=3)",,2023-09-26T08:16:38
+https://www.scripps.edu/pwu/,,"HTTPSConnectionPool(host='www.scripps.edu', port=443): Read timed out. (read timeout=3)",,2023-09-26T08:16:37
+https://bolligerlab.okstate.edu/,,"HTTPSConnectionPool(host='bolligerlab.okstate.edu', port=443): Read timed out. (read timeout=3)",,2023-09-26T08:16:39
+https://search.asu.edu/profile/3503942,403,Forbidden,,2023-09-26T08:16:38
+https://www.usf.edu/arts-sciences/departments/chemistry/faculty/turos.aspx,,"HTTPSConnectionPool(host='www.usf.edu', port=443): Max retries exceeded with url: /arts-sciences/departments/chemistry/faculty/turos.aspx (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1129)')))",,2023-09-26T08:16:41
+https://people.brandeis.edu/~kraussi/index.html,,"HTTPSConnectionPool(host='people.brandeis.edu', port=443): Max retries exceeded with url: /~kraussi/index.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))",,2023-09-26T08:16:41
+https://www.uab.edu/cas/chemistry/people/faculty/pengfei-wang,,"HTTPSConnectionPool(host='www.uab.edu', port=443): Read timed out. (read timeout=3)",,2023-09-26T08:16:39
+https://millerlab.okstate.edu/index.html,,"HTTPSConnectionPool(host='millerlab.okstate.edu', port=443): Read timed out. (read timeout=3)",,2023-09-26T08:16:41
