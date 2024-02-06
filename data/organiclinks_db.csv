@@ -1,7 +1,7 @@
 pi_first_name,pi_last_name,school,state,city,website,postdoc_wanted,postdoc_ads_added_date,postdoc_ads_expiration_date,postdoc_ads_link,research_interest,source,institute_carnegie_classification
 Ming,Chen,Auburn University,Alabama,Auburn,https://www.auburn.edu/cosam/404.htm,,,,,synthetic organic,https://www.organicdivision.org/organicsyntheticfaculty/,
 Rashad,Karimov,Auburn University,Alabama,Auburn,https://karimovrashad.wixsite.com/website,,,,,synthetic organic,https://www.organicdivision.org/organicsyntheticfaculty/,
-Bradley,Merner,Auburn University,Alabama,Auburn,http://ww25.mernergroup.com/?subid1=20220111-1919-10c5-925b-169f90270c84,,,,,synthetic organic,https://www.organicdivision.org/organicsyntheticfaculty/,
+Bradley,Merner,Auburn University,Alabama,Auburn,https://www.auburn.edu/cosam/faculty/chemistry/merner/,,,,,synthetic organic,https://www.organicdivision.org/organicsyntheticfaculty/,
 Stewart,Schneller,Auburn University,Alabama,Auburn,https://schnest.auburn.edu/,,,,,synthetic organic,https://www.organicdivision.org/organicsyntheticfaculty/,
 Kevin,Shaughnessy,University of Alabama,Alabama,Tuscaloosa,https://kshaughnessy.people.ua.edu/,,,,,synthetic organic,https://www.organicdivision.org/organicsyntheticfaculty/,
 Timothy,Snowden,University of Alabama,Alabama,Tuscaloosa,https://www.snowdengroup.org,,,,,synthetic organic,https://www.organicdivision.org/organicsyntheticfaculty/,
@@ -255,7 +255,7 @@ Eric,Jacobsen,Harvard University,Massachusetts,Cambridge,https://jacobsengroup.s
 Daniel,Kahne,Harvard University,Massachusetts,Cambridge,https://kahnelab.chemistry.harvard.edu/,,,,,synthetic organic,https://www.organicdivision.org/organicsyntheticfaculty/,
 Andrew,Myers,Harvard University,Massachusetts,Cambridge,https://myers.faculty.chemistry.harvard.edu/,,,,,synthetic organic,https://www.organicdivision.org/organicsyntheticfaculty/,
 Stuart,Schreiber,Harvard University,Massachusetts,Cambridge,https://www.broadinstitute.org/bios/stuart-l-schreiber,,,,,synthetic organic,https://www.organicdivision.org/organicsyntheticfaculty/,
-Matthew,Shair,Harvard University,Massachusetts,Cambridge,http://www.shairlab.com,,,,,synthetic organic,https://www.organicdivision.org/organicsyntheticfaculty/,
+Matthew,Shair,Harvard University,Massachusetts,Cambridge,https://chemistry.harvard.edu/people/matthew-shair,,,,,synthetic organic,https://www.organicdivision.org/organicsyntheticfaculty/,
 Christina,Woo,Harvard University,Massachusetts,Cambridge,http://www.woolab.org,,,,,synthetic organic,https://www.organicdivision.org/organicsyntheticfaculty/,
 Stephen,Buchwald,Massachusetts Institute of Technology,Massachusetts,Cambridge,https://chemistry-buchwald.mit.edu,,,,,synthetic organic,https://www.organicdivision.org/organicsyntheticfaculty/,
 Rick,Danheiser,Massachusetts Institute of Technology,Massachusetts,Cambridge,http://danheiserlab.mit.edu,,,,,synthetic organic,https://www.organicdivision.org/organicsyntheticfaculty/,
