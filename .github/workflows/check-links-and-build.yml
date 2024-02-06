@@ -4,8 +4,8 @@
 name: CI Check links and Build
 
 on:
-  schedule:
-    - cron: '0 8 * * *'    # (run everyday at 8AM UTC, 3AM ET)
+  # schedule:
+  #   - cron: '0 8 * * *'    # (run everyday at 8AM UTC, 3AM ET)
   # Allow manual trigger of this workflow
   workflow_dispatch:
 #   push:
