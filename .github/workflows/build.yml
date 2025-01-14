@@ -6,6 +6,9 @@ name: 11ty-build
 on:
   push:
 #    branches: [ main ]
+  # Allow manual trigger of this workflow
+  workflow_dispatch:
+
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -21,16 +24,16 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
 
     # Build the site with 11ty, ref: https://www.rockyourcode.com/how-to-deploy-eleventy-to-github-pages-with-github-actions/
     - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v4
       with:
         node-version: ${{ matrix.node-version }}
 
     - name: Cache node modules
-      uses: actions/cache@v2
+      uses: actions/cache@v4
       env:
         cache-name: cache-node-modules
       with:
@@ -63,7 +66,7 @@ jobs:
 
     - name: Push 'organicsyntheticfaculty.html' changes
 #       if: github.ref == 'refs/heads/main'
-      uses: ad-m/github-push-action@v0.6.0
+      uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
